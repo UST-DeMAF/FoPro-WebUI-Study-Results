@@ -1,0 +1,354 @@
+
+=== T1 Performance by Knowledge (How familiar are you with deployment technologies?) ===
+
+Statistics for How many services get deployed? split by How familiar are you with deployment technologies?:
+  Both - Knowledge=1: N=8, mean=37.50, median=0.00, std=51.75, mode=0.0
+  Both - Knowledge=2: N=6, mean=66.67, median=100.00, std=51.64, mode=100.0
+  Both - Knowledge=3: N=4, mean=25.00, median=0.00, std=50.00, mode=0.0
+  Both - Knowledge=4: N=4, mean=25.00, median=0.00, std=50.00, mode=0.0
+  DeMAF - Knowledge=1: N=4, mean=25.00, median=0.00, std=50.00, mode=0.0
+  DeMAF - Knowledge=2: N=2, mean=50.00, median=50.00, std=70.71, mode=100.0
+  DeMAF - Knowledge=3: N=3, mean=0.00, median=0.00, std=0.00, mode=0.0
+  DeMAF - Knowledge=4: N=2, mean=0.00, median=0.00, std=0.00, mode=0.0
+  Monokle - Knowledge=1: N=4, mean=50.00, median=50.00, std=57.74, mode=100.0
+  Monokle - Knowledge=2: N=4, mean=75.00, median=100.00, std=50.00, mode=100.0
+  Monokle - Knowledge=3: N=1, mean=100.00, median=100.00, std=nan, mode=100.0
+  Monokle - Knowledge=4: N=2, mean=50.00, median=50.00, std=70.71, mode=100.0
+
+Statistics for How many databases get deployed? split by How familiar are you with deployment technologies?:
+  Both - Knowledge=1: N=8, mean=25.00, median=0.00, std=46.29, mode=0.0
+  Both - Knowledge=2: N=6, mean=16.67, median=0.00, std=40.82, mode=0.0
+  Both - Knowledge=3: N=4, mean=50.00, median=50.00, std=57.74, mode=100.0
+  Both - Knowledge=4: N=4, mean=25.00, median=0.00, std=50.00, mode=0.0
+  DeMAF - Knowledge=1: N=4, mean=50.00, median=50.00, std=57.74, mode=100.0
+  DeMAF - Knowledge=2: N=2, mean=0.00, median=0.00, std=0.00, mode=0.0
+  DeMAF - Knowledge=3: N=3, mean=66.67, median=100.00, std=57.74, mode=100.0
+  DeMAF - Knowledge=4: N=2, mean=50.00, median=50.00, std=70.71, mode=100.0
+  Monokle - Knowledge=1: N=4, mean=0.00, median=0.00, std=0.00, mode=0.0
+  Monokle - Knowledge=2: N=4, mean=25.00, median=0.00, std=50.00, mode=0.0
+  Monokle - Knowledge=3: N=1, mean=0.00, median=0.00, std=nan, mode=0.0
+  Monokle - Knowledge=4: N=2, mean=0.00, median=0.00, std=0.00, mode=0.0
+
+Statistics for General [Which service(s) interact with the "Order Service"?] split by How familiar are you with deployment technologies?:
+  Both - Knowledge=1: N=8, mean=62.50, median=100.00, std=51.75, mode=100.0
+  Both - Knowledge=2: N=6, mean=66.67, median=100.00, std=51.64, mode=100.0
+  Both - Knowledge=3: N=4, mean=50.00, median=50.00, std=57.74, mode=100.0
+  Both - Knowledge=4: N=4, mean=25.00, median=0.00, std=50.00, mode=0.0
+  DeMAF - Knowledge=1: N=4, mean=100.00, median=100.00, std=0.00, mode=100.0
+  DeMAF - Knowledge=2: N=2, mean=100.00, median=100.00, std=0.00, mode=100.0
+  DeMAF - Knowledge=3: N=3, mean=66.67, median=100.00, std=57.74, mode=100.0
+  DeMAF - Knowledge=4: N=2, mean=50.00, median=50.00, std=70.71, mode=100.0
+  Monokle - Knowledge=1: N=4, mean=25.00, median=0.00, std=50.00, mode=0.0
+  Monokle - Knowledge=2: N=4, mean=50.00, median=50.00, std=57.74, mode=100.0
+  Monokle - Knowledge=3: N=1, mean=0.00, median=0.00, std=nan, mode=0.0
+  Monokle - Knowledge=4: N=2, mean=0.00, median=0.00, std=0.00, mode=0.0
+
+Statistics for General [Which service(s) does the "Order Service" interact with?] split by How familiar are you with deployment technologies?:
+  Both - Knowledge=1: N=8, mean=25.00, median=0.00, std=46.29, mode=0.0
+  Both - Knowledge=2: N=6, mean=33.33, median=0.00, std=51.64, mode=0.0
+  Both - Knowledge=3: N=4, mean=50.00, median=50.00, std=57.74, mode=100.0
+  Both - Knowledge=4: N=4, mean=25.00, median=0.00, std=50.00, mode=0.0
+  DeMAF - Knowledge=1: N=4, mean=25.00, median=0.00, std=50.00, mode=0.0
+  DeMAF - Knowledge=2: N=2, mean=0.00, median=0.00, std=0.00, mode=0.0
+  DeMAF - Knowledge=3: N=3, mean=66.67, median=100.00, std=57.74, mode=100.0
+  DeMAF - Knowledge=4: N=2, mean=0.00, median=0.00, std=0.00, mode=0.0
+  Monokle - Knowledge=1: N=4, mean=25.00, median=0.00, std=50.00, mode=0.0
+  Monokle - Knowledge=2: N=4, mean=50.00, median=50.00, std=57.74, mode=100.0
+  Monokle - Knowledge=3: N=1, mean=0.00, median=0.00, std=nan, mode=0.0
+  Monokle - Knowledge=4: N=2, mean=50.00, median=50.00, std=70.71, mode=100.0
+
+Statistics for General [Which service(s) interact with the "Cart Service"?] split by How familiar are you with deployment technologies?:
+  Both - Knowledge=1: N=8, mean=25.00, median=0.00, std=46.29, mode=0.0
+  Both - Knowledge=2: N=6, mean=33.33, median=0.00, std=51.64, mode=0.0
+  Both - Knowledge=3: N=4, mean=75.00, median=100.00, std=50.00, mode=100.0
+  Both - Knowledge=4: N=4, mean=25.00, median=0.00, std=50.00, mode=0.0
+  DeMAF - Knowledge=1: N=4, mean=50.00, median=50.00, std=57.74, mode=0.0
+  DeMAF - Knowledge=2: N=2, mean=100.00, median=100.00, std=0.00, mode=100.0
+  DeMAF - Knowledge=3: N=3, mean=100.00, median=100.00, std=0.00, mode=100.0
+  DeMAF - Knowledge=4: N=2, mean=50.00, median=50.00, std=70.71, mode=100.0
+  Monokle - Knowledge=1: N=4, mean=0.00, median=0.00, std=0.00, mode=0.0
+  Monokle - Knowledge=2: N=4, mean=0.00, median=0.00, std=0.00, mode=0.0
+  Monokle - Knowledge=3: N=1, mean=0.00, median=0.00, std=nan, mode=0.0
+  Monokle - Knowledge=4: N=2, mean=0.00, median=0.00, std=0.00, mode=0.0
+
+Statistics for General [Which service(s) does the "Cart Service" interact with?] split by How familiar are you with deployment technologies?:
+  Both - Knowledge=1: N=8, mean=50.00, median=50.00, std=53.45, mode=0.0
+  Both - Knowledge=2: N=6, mean=66.67, median=100.00, std=51.64, mode=100.0
+  Both - Knowledge=3: N=4, mean=50.00, median=50.00, std=57.74, mode=100.0
+  Both - Knowledge=4: N=4, mean=25.00, median=0.00, std=50.00, mode=0.0
+  DeMAF - Knowledge=1: N=4, mean=75.00, median=100.00, std=50.00, mode=100.0
+  DeMAF - Knowledge=2: N=2, mean=100.00, median=100.00, std=0.00, mode=100.0
+  DeMAF - Knowledge=3: N=3, mean=66.67, median=100.00, std=57.74, mode=100.0
+  DeMAF - Knowledge=4: N=2, mean=50.00, median=50.00, std=70.71, mode=100.0
+  Monokle - Knowledge=1: N=4, mean=25.00, median=0.00, std=50.00, mode=0.0
+  Monokle - Knowledge=2: N=4, mean=50.00, median=50.00, std=57.74, mode=100.0
+  Monokle - Knowledge=3: N=1, mean=0.00, median=0.00, std=nan, mode=0.0
+  Monokle - Knowledge=4: N=2, mean=0.00, median=0.00, std=0.00, mode=0.0
+
+Statistics for Which version does the "UI" use? split by How familiar are you with deployment technologies?:
+  Both - Knowledge=1: N=8, mean=50.00, median=50.00, std=53.45, mode=0.0
+  Both - Knowledge=2: N=6, mean=16.67, median=0.00, std=40.82, mode=0.0
+  Both - Knowledge=3: N=4, mean=75.00, median=100.00, std=50.00, mode=100.0
+  Both - Knowledge=4: N=4, mean=0.00, median=0.00, std=0.00, mode=0.0
+  DeMAF - Knowledge=1: N=4, mean=50.00, median=50.00, std=57.74, mode=100.0
+  DeMAF - Knowledge=2: N=2, mean=0.00, median=0.00, std=0.00, mode=0.0
+  DeMAF - Knowledge=3: N=3, mean=66.67, median=100.00, std=57.74, mode=100.0
+  DeMAF - Knowledge=4: N=2, mean=0.00, median=0.00, std=0.00, mode=0.0
+  Monokle - Knowledge=1: N=4, mean=50.00, median=50.00, std=57.74, mode=0.0
+  Monokle - Knowledge=2: N=4, mean=25.00, median=0.00, std=50.00, mode=0.0
+  Monokle - Knowledge=3: N=1, mean=100.00, median=100.00, std=nan, mode=100.0
+  Monokle - Knowledge=4: N=2, mean=0.00, median=0.00, std=0.00, mode=0.0
+
+Statistics for What port does the "Orchestrator" use? split by How familiar are you with deployment technologies?:
+  Both - Knowledge=1: N=8, mean=75.00, median=100.00, std=46.29, mode=100.0
+  Both - Knowledge=2: N=6, mean=83.33, median=100.00, std=40.82, mode=100.0
+  Both - Knowledge=3: N=4, mean=75.00, median=100.00, std=50.00, mode=100.0
+  Both - Knowledge=4: N=4, mean=75.00, median=100.00, std=50.00, mode=100.0
+  DeMAF - Knowledge=1: N=4, mean=100.00, median=100.00, std=0.00, mode=100.0
+  DeMAF - Knowledge=2: N=2, mean=100.00, median=100.00, std=0.00, mode=100.0
+  DeMAF - Knowledge=3: N=3, mean=66.67, median=100.00, std=57.74, mode=100.0
+  DeMAF - Knowledge=4: N=2, mean=100.00, median=100.00, std=0.00, mode=100.0
+  Monokle - Knowledge=1: N=4, mean=50.00, median=50.00, std=57.74, mode=0.0
+  Monokle - Knowledge=2: N=4, mean=75.00, median=100.00, std=50.00, mode=100.0
+  Monokle - Knowledge=3: N=1, mean=100.00, median=100.00, std=nan, mode=100.0
+  Monokle - Knowledge=4: N=2, mean=50.00, median=50.00, std=70.71, mode=0.0
+
+Statistics for What port gets mapped to the internal port 8080 of the "Payment Service"? split by How familiar are you with deployment technologies?:
+  Both - Knowledge=1: N=8, mean=75.00, median=100.00, std=46.29, mode=100.0
+  Both - Knowledge=2: N=6, mean=83.33, median=100.00, std=40.82, mode=100.0
+  Both - Knowledge=3: N=4, mean=0.00, median=0.00, std=0.00, mode=0.0
+  Both - Knowledge=4: N=4, mean=50.00, median=50.00, std=57.74, mode=100.0
+  DeMAF - Knowledge=1: N=4, mean=50.00, median=50.00, std=57.74, mode=100.0
+  DeMAF - Knowledge=2: N=2, mean=100.00, median=100.00, std=0.00, mode=100.0
+  DeMAF - Knowledge=3: N=3, mean=0.00, median=0.00, std=0.00, mode=0.0
+  DeMAF - Knowledge=4: N=2, mean=50.00, median=50.00, std=70.71, mode=100.0
+  Monokle - Knowledge=1: N=4, mean=100.00, median=100.00, std=0.00, mode=100.0
+  Monokle - Knowledge=2: N=4, mean=75.00, median=100.00, std=50.00, mode=100.0
+  Monokle - Knowledge=3: N=1, mean=0.00, median=0.00, std=nan, mode=0.0
+  Monokle - Knowledge=4: N=2, mean=50.00, median=50.00, std=70.71, mode=100.0
+
+Statistics for How big is the "Inventory"? split by How familiar are you with deployment technologies?:
+  Both - Knowledge=1: N=8, mean=75.00, median=100.00, std=46.29, mode=100.0
+  Both - Knowledge=2: N=6, mean=50.00, median=50.00, std=54.77, mode=0.0
+  Both - Knowledge=3: N=4, mean=75.00, median=100.00, std=50.00, mode=100.0
+  Both - Knowledge=4: N=4, mean=75.00, median=100.00, std=50.00, mode=100.0
+  DeMAF - Knowledge=1: N=4, mean=100.00, median=100.00, std=0.00, mode=100.0
+  DeMAF - Knowledge=2: N=2, mean=100.00, median=100.00, std=0.00, mode=100.0
+  DeMAF - Knowledge=3: N=3, mean=100.00, median=100.00, std=0.00, mode=100.0
+  DeMAF - Knowledge=4: N=2, mean=100.00, median=100.00, std=0.00, mode=100.0
+  Monokle - Knowledge=1: N=4, mean=50.00, median=50.00, std=57.74, mode=0.0
+  Monokle - Knowledge=2: N=4, mean=25.00, median=0.00, std=50.00, mode=0.0
+  Monokle - Knowledge=3: N=1, mean=0.00, median=0.00, std=nan, mode=0.0
+  Monokle - Knowledge=4: N=2, mean=50.00, median=50.00, std=70.71, mode=100.0
+
+Statistics for Is "Jaeger" enabled? split by How familiar are you with deployment technologies?:
+  Both - Knowledge=1: N=8, mean=62.50, median=100.00, std=51.75, mode=100.0
+  Both - Knowledge=2: N=6, mean=33.33, median=0.00, std=51.64, mode=0.0
+  Both - Knowledge=3: N=4, mean=100.00, median=100.00, std=0.00, mode=100.0
+  Both - Knowledge=4: N=4, mean=75.00, median=100.00, std=50.00, mode=100.0
+  DeMAF - Knowledge=1: N=4, mean=100.00, median=100.00, std=0.00, mode=100.0
+  DeMAF - Knowledge=2: N=2, mean=50.00, median=50.00, std=70.71, mode=100.0
+  DeMAF - Knowledge=3: N=3, mean=100.00, median=100.00, std=0.00, mode=100.0
+  DeMAF - Knowledge=4: N=2, mean=100.00, median=100.00, std=0.00, mode=100.0
+  Monokle - Knowledge=1: N=4, mean=25.00, median=0.00, std=50.00, mode=0.0
+  Monokle - Knowledge=2: N=4, mean=25.00, median=0.00, std=50.00, mode=0.0
+  Monokle - Knowledge=3: N=1, mean=100.00, median=100.00, std=nan, mode=100.0
+  Monokle - Knowledge=4: N=2, mean=50.00, median=50.00, std=70.71, mode=0.0
+
+Statistics for What are the username and password for the spring datasource? split by How familiar are you with deployment technologies?:
+  Both - Knowledge=1: N=8, mean=75.00, median=100.00, std=46.29, mode=100.0
+  Both - Knowledge=2: N=6, mean=66.67, median=100.00, std=51.64, mode=100.0
+  Both - Knowledge=3: N=4, mean=100.00, median=100.00, std=0.00, mode=100.0
+  Both - Knowledge=4: N=4, mean=75.00, median=100.00, std=50.00, mode=100.0
+  DeMAF - Knowledge=1: N=4, mean=100.00, median=100.00, std=0.00, mode=100.0
+  DeMAF - Knowledge=2: N=2, mean=50.00, median=50.00, std=70.71, mode=100.0
+  DeMAF - Knowledge=3: N=3, mean=100.00, median=100.00, std=0.00, mode=100.0
+  DeMAF - Knowledge=4: N=2, mean=100.00, median=100.00, std=0.00, mode=100.0
+  Monokle - Knowledge=1: N=4, mean=50.00, median=50.00, std=57.74, mode=0.0
+  Monokle - Knowledge=2: N=4, mean=75.00, median=100.00, std=50.00, mode=100.0
+  Monokle - Knowledge=3: N=1, mean=100.00, median=100.00, std=nan, mode=100.0
+  Monokle - Knowledge=4: N=2, mean=50.00, median=50.00, std=70.71, mode=0.0
+
+Statistics for T1_perf_agg (Normalized Aggregated) split by How familiar are you with deployment technologies?:
+  Both - Knowledge=1: N=8, mean=53.12, median=62.50, std=23.96, mode=16.666666666666668
+  Both - Knowledge=2: N=6, mean=51.39, median=45.83, std=13.35, mode=41.666666666666664
+  Both - Knowledge=3: N=4, mean=60.42, median=58.33, std=21.92, mode=41.666666666666664
+  Both - Knowledge=4: N=4, mean=41.67, median=33.33, std=22.57, mode=33.333333333333336
+  DeMAF - Knowledge=1: N=4, mean=68.75, median=70.83, std=7.98, mode=75.0
+  DeMAF - Knowledge=2: N=2, mean=62.50, median=62.50, std=17.68, mode=75.0
+  DeMAF - Knowledge=3: N=3, mean=66.67, median=75.00, std=22.05, mode=83.33333333333333
+  DeMAF - Knowledge=4: N=2, mean=54.17, median=54.17, std=29.46, mode=75.0
+  Monokle - Knowledge=1: N=4, mean=37.50, median=33.33, std=25.00, mode=16.666666666666668
+  Monokle - Knowledge=2: N=4, mean=45.83, median=41.67, std=8.33, mode=41.666666666666664
+  Monokle - Knowledge=3: N=1, mean=41.67, median=41.67, std=nan, mode=41.666666666666664
+  Monokle - Knowledge=4: N=2, mean=29.17, median=29.17, std=5.89, mode=33.333333333333336
+
+Summary statistics for T1_perf_agg (Normalized Aggregated) by How familiar are you with deployment technologies?:
+  Knowledge=1: N=8, mean=53.12, median=62.50, std=23.96, mode=16.666666666666668
+  Knowledge=2: N=6, mean=51.39, median=45.83, std=13.35, mode=41.666666666666664
+  Knowledge=3: N=4, mean=60.42, median=58.33, std=21.92, mode=41.666666666666664
+  Knowledge=4: N=4, mean=41.67, median=33.33, std=22.57, mode=33.333333333333336
+  Knowledge=5: N=0, mean=nan, median=nan, std=nan, mode=nan
+
+=== T2 Performance by Knowledge (How familiar are you with deployment technologies?) ===
+
+Statistics for How many services get deployed?.1 split by How familiar are you with deployment technologies?:
+  Both - Knowledge=1: N=8, mean=37.50, median=0.00, std=51.75, mode=0.0
+  Both - Knowledge=2: N=6, mean=0.00, median=0.00, std=0.00, mode=0.0
+  Both - Knowledge=3: N=4, mean=50.00, median=50.00, std=57.74, mode=100.0
+  Both - Knowledge=4: N=4, mean=50.00, median=50.00, std=57.74, mode=0.0
+  DeMAF - Knowledge=1: N=4, mean=0.00, median=0.00, std=0.00, mode=0.0
+  DeMAF - Knowledge=2: N=4, mean=0.00, median=0.00, std=0.00, mode=0.0
+  DeMAF - Knowledge=3: N=1, mean=0.00, median=0.00, std=nan, mode=0.0
+  DeMAF - Knowledge=4: N=2, mean=0.00, median=0.00, std=0.00, mode=0.0
+  Monokle - Knowledge=1: N=4, mean=75.00, median=100.00, std=50.00, mode=100.0
+  Monokle - Knowledge=2: N=2, mean=0.00, median=0.00, std=0.00, mode=0.0
+  Monokle - Knowledge=3: N=3, mean=66.67, median=100.00, std=57.74, mode=100.0
+  Monokle - Knowledge=4: N=2, mean=100.00, median=100.00, std=0.00, mode=100.0
+
+Statistics for How many databases get deployed?.1 split by How familiar are you with deployment technologies?:
+  Both - Knowledge=1: N=8, mean=37.50, median=0.00, std=51.75, mode=0.0
+  Both - Knowledge=2: N=6, mean=50.00, median=50.00, std=54.77, mode=100.0
+  Both - Knowledge=3: N=4, mean=0.00, median=0.00, std=0.00, mode=0.0
+  Both - Knowledge=4: N=4, mean=50.00, median=50.00, std=57.74, mode=0.0
+  DeMAF - Knowledge=1: N=4, mean=50.00, median=50.00, std=57.74, mode=0.0
+  DeMAF - Knowledge=2: N=4, mean=75.00, median=100.00, std=50.00, mode=100.0
+  DeMAF - Knowledge=3: N=1, mean=0.00, median=0.00, std=nan, mode=0.0
+  DeMAF - Knowledge=4: N=2, mean=50.00, median=50.00, std=70.71, mode=0.0
+  Monokle - Knowledge=1: N=4, mean=25.00, median=0.00, std=50.00, mode=0.0
+  Monokle - Knowledge=2: N=2, mean=0.00, median=0.00, std=0.00, mode=0.0
+  Monokle - Knowledge=3: N=3, mean=0.00, median=0.00, std=0.00, mode=0.0
+  Monokle - Knowledge=4: N=2, mean=50.00, median=50.00, std=70.71, mode=100.0
+
+Statistics for General [Which service(s) interact with the "Checkout Service"?] split by How familiar are you with deployment technologies?:
+  Both - Knowledge=1: N=8, mean=50.00, median=50.00, std=53.45, mode=100.0
+  Both - Knowledge=2: N=6, mean=83.33, median=100.00, std=40.82, mode=100.0
+  Both - Knowledge=3: N=4, mean=50.00, median=50.00, std=57.74, mode=0.0
+  Both - Knowledge=4: N=4, mean=50.00, median=50.00, std=57.74, mode=100.0
+  DeMAF - Knowledge=1: N=4, mean=75.00, median=100.00, std=50.00, mode=100.0
+  DeMAF - Knowledge=2: N=4, mean=100.00, median=100.00, std=0.00, mode=100.0
+  DeMAF - Knowledge=3: N=1, mean=100.00, median=100.00, std=nan, mode=100.0
+  DeMAF - Knowledge=4: N=2, mean=100.00, median=100.00, std=0.00, mode=100.0
+  Monokle - Knowledge=1: N=4, mean=25.00, median=0.00, std=50.00, mode=0.0
+  Monokle - Knowledge=2: N=2, mean=50.00, median=50.00, std=70.71, mode=0.0
+  Monokle - Knowledge=3: N=3, mean=33.33, median=0.00, std=57.74, mode=0.0
+  Monokle - Knowledge=4: N=2, mean=0.00, median=0.00, std=0.00, mode=0.0
+
+Statistics for General [Which service(s) does the "Checkout Service" interact with?] split by How familiar are you with deployment technologies?:
+  Both - Knowledge=1: N=8, mean=10.00, median=0.00, std=28.28, mode=0.0
+  Both - Knowledge=2: N=6, mean=0.00, median=0.00, std=0.00, mode=0.0
+  Both - Knowledge=3: N=4, mean=0.00, median=0.00, std=0.00, mode=0.0
+  Both - Knowledge=4: N=4, mean=0.00, median=0.00, std=0.00, mode=0.0
+  DeMAF - Knowledge=1: N=4, mean=20.00, median=0.00, std=40.00, mode=0.0
+  DeMAF - Knowledge=2: N=4, mean=0.00, median=0.00, std=0.00, mode=0.0
+  DeMAF - Knowledge=3: N=1, mean=0.00, median=0.00, std=nan, mode=0.0
+  DeMAF - Knowledge=4: N=2, mean=0.00, median=0.00, std=0.00, mode=0.0
+  Monokle - Knowledge=1: N=4, mean=0.00, median=0.00, std=0.00, mode=0.0
+  Monokle - Knowledge=2: N=2, mean=0.00, median=0.00, std=0.00, mode=0.0
+  Monokle - Knowledge=3: N=3, mean=0.00, median=0.00, std=0.00, mode=0.0
+  Monokle - Knowledge=4: N=2, mean=0.00, median=0.00, std=0.00, mode=0.0
+
+Statistics for General [Which service(s) interact with the "Product Catalog Service"?] split by How familiar are you with deployment technologies?:
+  Both - Knowledge=1: N=8, mean=12.50, median=0.00, std=35.36, mode=0.0
+  Both - Knowledge=2: N=6, mean=0.00, median=0.00, std=0.00, mode=0.0
+  Both - Knowledge=3: N=4, mean=0.00, median=0.00, std=0.00, mode=0.0
+  Both - Knowledge=4: N=4, mean=0.00, median=0.00, std=0.00, mode=0.0
+  DeMAF - Knowledge=1: N=4, mean=25.00, median=0.00, std=50.00, mode=0.0
+  DeMAF - Knowledge=2: N=4, mean=0.00, median=0.00, std=0.00, mode=0.0
+  DeMAF - Knowledge=3: N=1, mean=0.00, median=0.00, std=nan, mode=0.0
+  DeMAF - Knowledge=4: N=2, mean=0.00, median=0.00, std=0.00, mode=0.0
+  Monokle - Knowledge=1: N=4, mean=0.00, median=0.00, std=0.00, mode=0.0
+  Monokle - Knowledge=2: N=2, mean=0.00, median=0.00, std=0.00, mode=0.0
+  Monokle - Knowledge=3: N=3, mean=0.00, median=0.00, std=0.00, mode=0.0
+  Monokle - Knowledge=4: N=2, mean=0.00, median=0.00, std=0.00, mode=0.0
+
+Statistics for General [Which service(s) does the "Product Catalog Service" interact with?] split by How familiar are you with deployment technologies?:
+  Both - Knowledge=1: N=8, mean=62.50, median=100.00, std=51.75, mode=100.0
+  Both - Knowledge=2: N=6, mean=83.33, median=100.00, std=40.82, mode=100.0
+  Both - Knowledge=3: N=4, mean=50.00, median=50.00, std=57.74, mode=0.0
+  Both - Knowledge=4: N=4, mean=25.00, median=0.00, std=50.00, mode=0.0
+  DeMAF - Knowledge=1: N=4, mean=100.00, median=100.00, std=0.00, mode=100.0
+  DeMAF - Knowledge=2: N=4, mean=100.00, median=100.00, std=0.00, mode=100.0
+  DeMAF - Knowledge=3: N=1, mean=100.00, median=100.00, std=nan, mode=100.0
+  DeMAF - Knowledge=4: N=2, mean=50.00, median=50.00, std=70.71, mode=0.0
+  Monokle - Knowledge=1: N=4, mean=25.00, median=0.00, std=50.00, mode=0.0
+  Monokle - Knowledge=2: N=2, mean=50.00, median=50.00, std=70.71, mode=100.0
+  Monokle - Knowledge=3: N=3, mean=33.33, median=0.00, std=57.74, mode=0.0
+  Monokle - Knowledge=4: N=2, mean=0.00, median=0.00, std=0.00, mode=0.0
+
+Statistics for Which version does the Mongo database use? split by How familiar are you with deployment technologies?:
+  Both - Knowledge=1: N=8, mean=12.50, median=0.00, std=35.36, mode=0.0
+  Both - Knowledge=2: N=6, mean=50.00, median=50.00, std=54.77, mode=100.0
+  Both - Knowledge=3: N=4, mean=75.00, median=100.00, std=50.00, mode=100.0
+  Both - Knowledge=4: N=4, mean=25.00, median=0.00, std=50.00, mode=0.0
+  DeMAF - Knowledge=1: N=4, mean=25.00, median=0.00, std=50.00, mode=0.0
+  DeMAF - Knowledge=2: N=4, mean=50.00, median=50.00, std=57.74, mode=100.0
+  DeMAF - Knowledge=3: N=1, mean=100.00, median=100.00, std=nan, mode=100.0
+  DeMAF - Knowledge=4: N=2, mean=0.00, median=0.00, std=0.00, mode=0.0
+  Monokle - Knowledge=1: N=4, mean=0.00, median=0.00, std=0.00, mode=0.0
+  Monokle - Knowledge=2: N=2, mean=50.00, median=50.00, std=70.71, mode=0.0
+  Monokle - Knowledge=3: N=3, mean=66.67, median=100.00, std=57.74, mode=100.0
+  Monokle - Knowledge=4: N=2, mean=50.00, median=50.00, std=70.71, mode=100.0
+
+Statistics for What port does the Kafka queue use? split by How familiar are you with deployment technologies?:
+  Both - Knowledge=1: N=8, mean=100.00, median=100.00, std=0.00, mode=100.0
+  Both - Knowledge=2: N=6, mean=83.33, median=100.00, std=40.82, mode=100.0
+  Both - Knowledge=3: N=4, mean=50.00, median=50.00, std=57.74, mode=0.0
+  Both - Knowledge=4: N=4, mean=75.00, median=100.00, std=50.00, mode=100.0
+  DeMAF - Knowledge=1: N=4, mean=100.00, median=100.00, std=0.00, mode=100.0
+  DeMAF - Knowledge=2: N=4, mean=75.00, median=100.00, std=50.00, mode=100.0
+  DeMAF - Knowledge=3: N=1, mean=0.00, median=0.00, std=nan, mode=0.0
+  DeMAF - Knowledge=4: N=2, mean=50.00, median=50.00, std=70.71, mode=0.0
+  Monokle - Knowledge=1: N=4, mean=100.00, median=100.00, std=0.00, mode=100.0
+  Monokle - Knowledge=2: N=2, mean=100.00, median=100.00, std=0.00, mode=100.0
+  Monokle - Knowledge=3: N=3, mean=66.67, median=100.00, std=57.74, mode=100.0
+  Monokle - Knowledge=4: N=2, mean=100.00, median=100.00, std=0.00, mode=100.0
+
+Statistics for What port gets mapped to the internal port 27017 of the MongoDB? split by How familiar are you with deployment technologies?:
+  Both - Knowledge=1: N=8, mean=75.00, median=100.00, std=46.29, mode=100.0
+  Both - Knowledge=2: N=6, mean=83.33, median=100.00, std=40.82, mode=100.0
+  Both - Knowledge=3: N=4, mean=75.00, median=100.00, std=50.00, mode=100.0
+  Both - Knowledge=4: N=4, mean=50.00, median=50.00, std=57.74, mode=0.0
+  DeMAF - Knowledge=1: N=4, mean=75.00, median=100.00, std=50.00, mode=100.0
+  DeMAF - Knowledge=2: N=4, mean=75.00, median=100.00, std=50.00, mode=100.0
+  DeMAF - Knowledge=3: N=1, mean=100.00, median=100.00, std=nan, mode=100.0
+  DeMAF - Knowledge=4: N=2, mean=50.00, median=50.00, std=70.71, mode=0.0
+  Monokle - Knowledge=1: N=4, mean=75.00, median=100.00, std=50.00, mode=100.0
+  Monokle - Knowledge=2: N=2, mean=100.00, median=100.00, std=0.00, mode=100.0
+  Monokle - Knowledge=3: N=3, mean=66.67, median=100.00, std=57.74, mode=100.0
+  Monokle - Knowledge=4: N=2, mean=50.00, median=50.00, std=70.71, mode=0.0
+
+Statistics for What are the username and password for the MongoDB? split by How familiar are you with deployment technologies?:
+  Both - Knowledge=1: N=8, mean=62.50, median=100.00, std=51.75, mode=100.0
+  Both - Knowledge=2: N=6, mean=83.33, median=100.00, std=40.82, mode=100.0
+  Both - Knowledge=3: N=4, mean=100.00, median=100.00, std=0.00, mode=100.0
+  Both - Knowledge=4: N=4, mean=75.00, median=100.00, std=50.00, mode=100.0
+  DeMAF - Knowledge=1: N=4, mean=100.00, median=100.00, std=0.00, mode=100.0
+  DeMAF - Knowledge=2: N=4, mean=75.00, median=100.00, std=50.00, mode=100.0
+  DeMAF - Knowledge=3: N=1, mean=100.00, median=100.00, std=nan, mode=100.0
+  DeMAF - Knowledge=4: N=2, mean=50.00, median=50.00, std=70.71, mode=0.0
+  Monokle - Knowledge=1: N=4, mean=25.00, median=0.00, std=50.00, mode=0.0
+  Monokle - Knowledge=2: N=2, mean=100.00, median=100.00, std=0.00, mode=100.0
+  Monokle - Knowledge=3: N=3, mean=100.00, median=100.00, std=0.00, mode=100.0
+  Monokle - Knowledge=4: N=2, mean=100.00, median=100.00, std=0.00, mode=100.0
+
+Statistics for T2_perf_agg (Normalized Aggregated) split by How familiar are you with deployment technologies?:
+  Both - Knowledge=1: N=8, mean=46.00, median=49.00, std=19.03, mode=40.0
+  Both - Knowledge=2: N=6, mean=51.67, median=50.00, std=11.69, mode=40.0
+  Both - Knowledge=3: N=4, mean=45.00, median=45.00, std=20.82, mode=40.0
+  Both - Knowledge=4: N=4, mean=40.00, median=45.00, std=21.60, mode=10.0
+  DeMAF - Knowledge=1: N=4, mean=57.00, median=59.00, std=12.49, mode=40.0
+  DeMAF - Knowledge=2: N=4, mean=55.00, median=55.00, std=12.91, mode=60.0
+  DeMAF - Knowledge=3: N=1, mean=50.00, median=50.00, std=nan, mode=50.0
+  DeMAF - Knowledge=4: N=2, mean=35.00, median=35.00, std=35.36, mode=10.0
+  Monokle - Knowledge=1: N=4, mean=35.00, median=30.00, std=19.15, mode=20.0
+  Monokle - Knowledge=2: N=2, mean=45.00, median=45.00, std=7.07, mode=40.0
+  Monokle - Knowledge=3: N=3, mean=43.33, median=40.00, std=25.17, mode=40.0
+  Monokle - Knowledge=4: N=2, mean=45.00, median=45.00, std=7.07, mode=50.0
+
+Summary statistics for T2_perf_agg (Normalized Aggregated) by How familiar are you with deployment technologies?:
+  Knowledge=1: N=8, mean=46.00, median=49.00, std=19.03, mode=40.0
+  Knowledge=2: N=6, mean=51.67, median=50.00, std=11.69, mode=40.0
+  Knowledge=3: N=4, mean=45.00, median=45.00, std=20.82, mode=40.0
+  Knowledge=4: N=4, mean=40.00, median=45.00, std=21.60, mode=10.0
+  Knowledge=5: N=0, mean=nan, median=nan, std=nan, mode=nan

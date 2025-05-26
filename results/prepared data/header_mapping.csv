@@ -1,0 +1,103 @@
+original_header,new_header
+UUID,UUID
+Zeitstempel,time_stamp
+Completion time first task,T1_time
+Completion time second task,T2_time
+How old are you?,age
+What is your gender?,gender
+What is your Level of Education?,education
+What is your Field of Study?,field
+"If you're still studying, what semester are you in?",semester
+Have you worked with deployment technologies before?,KQ_1
+"If you used deployment technologies before, for what did you use them for?",KQ_2
+"If you used deployment technologies before, which deployment technologies have you used?",KQ_3
+How familiar are you with deployment technologies?,KQ_4
+"If you used deployment technologies before, which deployment technology are most familiar with?",KQ_5
+Do you know the following terms? [Technology-Agnostic Deployment Model (TADM)],KQ_6
+Do you know the following terms? [Topology and Orchestration Specification for Cloud Applications (TOSCA)],KQ_7
+Do you know the following terms? [Essential Deployment Metamodel (EDMM)],KQ_8
+Do you know the following terms? [Deployment Model Abstraction Framework (DeMAF)],KQ_9
+Do you know the following terms? [Technology-Specific Deployment Model (TSDM)],KQ_10
+Have you used any visualization tools for deployment models before?,KQ_11
+"If yes, which ones?",KQ_12
+Which tool were you working with?,T1_UQ_1
+How many services get deployed?,T1_UQ_2
+How many databases get deployed?,T1_UQ_3
+"General [Which service(s) interact with the ""Order Service""?]",T1_UQ_4
+"General [Which service(s) does the ""Order Service"" interact with?]",T1_UQ_5
+"General [Which service(s) interact with the ""Cart Service""?]",T1_UQ_6
+"General [Which service(s) does the ""Cart Service"" interact with?]",T1_UQ_7
+"Which version does the ""UI"" use?",T1_UQ_8
+"What port does the ""Orchestrator"" use?",T1_UQ_9
+"What port gets mapped to the internal port 8080 of the ""Payment Service""?",T1_UQ_10
+"How big is the ""Inventory""?",T1_UQ_11
+"Is ""Jaeger"" enabled?",T1_UQ_12
+What are the username and password for the spring datasource?,T1_UQ_13
+I required help for completing the tasks.,T1_UQ_14
+Did you use the provided documentation by the tool?,T1_UQ_15
+"If you used the documentation, how useful was it?",T1_UQ_16
+How mentally demanding were the tasks?,T1_LQ_1
+How hurried or rushed were the pace of the tasks?,T1_LQ_2
+How successful were you in accomplishing what you were asked to do?,T1_LQ_3
+How hard did you have to work to accomplish your level of performance?,T1_LQ_4
+"How insecure, discouraged, irritated, stressed and annoyed were you when working on the tasks using this tool?",T1_LQ_5
+The visualization helped me understand the deployment model clearly.  ,T1_LQ_6
+The information presented was easy to interpret.,T1_LQ_7
+The tool was easy to navigate.,T1_LQ_8
+I could efficiently find the information I needed.,T1_LQ_9
+The tool provided all necessary information about the deployment model.,T1_LQ_10
+I was able to extract the required details without difficulty.,T1_LQ_11
+The graphical representation was visually appealing.,T1_LQ_12
+The layout and design made it easy to follow the model structure.,T1_LQ_13
+I could analyze the deployment model quickly using this tool.,T1_LQ_14
+The tool made the analysis process more efficient.,T1_LQ_15
+I liked this tool.,T1_LQ_16
+What was positive about the tool you used?,T1_LQ_17
+What was negative about the tool you used?,T1_LQ_18
+Which tool were you working with?.1,T2_UQ_1
+How many services get deployed?.1,T2_UQ_2
+How many databases get deployed?.1,T2_UQ_3
+"General [Which service(s) interact with the ""Checkout Service""?]",T2_UQ_4
+"General [Which service(s) does the ""Checkout Service"" interact with?]",T2_UQ_5
+"General [Which service(s) interact with the ""Product Catalog Service""?]",T2_UQ_6
+"General [Which service(s) does the ""Product Catalog Service"" interact with?]",T2_UQ_7
+Which version does the Mongo database use?,T2_UQ_8
+What port does the Kafka queue use?,T2_UQ_9
+What port gets mapped to the internal port 27017 of the MongoDB?,T2_UQ_10
+What are the username and password for the MongoDB?,T2_UQ_11
+I required help for completing the tasks..1,T2_UQ_12
+Did you use the provided documentation from the tool?,T2_UQ_13
+"If you used the documentation, how useful was it?.1",T2_UQ_14
+How mentally demanding were the tasks?.1,T2_LQ_1
+How hurried or rushed were the pace of the tasks?.1,T2_LQ_2
+How successful were you in accomplishing what you were asked to do?.1,T2_LQ_3
+How hard did you have to work to accomplish your level of performance?.1,T2_LQ_4
+"How insecure, discouraged, irritated, stressed and annoyed were you when working on the tasks using this tool?.1",T2_LQ_5
+The visualization helped me understand the deployment model clearly.  .1,T2_LQ_6
+The information presented was easy to interpret..1,T2_LQ_7
+The tool was easy to navigate..1,T2_LQ_8
+I could efficiently find the information I needed..1,T2_LQ_9
+The tool provided all necessary information about the deployment model..1,T2_LQ_10
+I was able to extract the required details without difficulty..1,T2_LQ_11
+The graphical representation was visually appealing..1,T2_LQ_12
+The layout and design made it easy to follow the model structure..1,T2_LQ_13
+I could analyze the deployment model quickly using this tool..1,T2_LQ_14
+The tool made the analysis process more efficient..1,T2_LQ_15
+I liked this tool..1,T2_LQ_16
+What was positive about the tool you used?.1,T2_LQ_17
+What was negative about the tool you used?.1,T2_LQ_18
+I preferred this tool over the other one for understanding deployment models. ,CQ_1
+This tool was easier to learn compared to the other tool.,CQ_2
+I felt confident in my understanding when using this tool. ,CQ_3
+I would use this tool again for deployment model visualization. ,CQ_4
+This tool provided better insights than the alternative tool I used. ,CQ_5
+I prefer this tool.,CQ_6
+Do you have additional feedback on the tools you used in this study?,CQ_7
+What did you like most about this study?,FQ_1
+What did you find challenging or unclear?,FQ_2
+Do you have any suggestions for improving the study or our tool (DeMAF) used?,FQ_3
+The survey was well-structured and easy to follow.,FQ_4
+The study helped me understand all relevant aspects of deployment model visualization.,FQ_5
+The study helped me understand the given deployment models and how they are structured.,FQ_6
+Would you participate in a similar study again?,FQ_7
+Any additional comments?,FQ_8

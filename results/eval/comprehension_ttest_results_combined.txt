@@ -1,0 +1,138 @@
+--- Combined T1+T2 Analysis ---
+
+Performance (Normalized Aggregated) (T1+T2 combined):
+    DeMAF: n=22, mean=58.015, median=60.000, normal=True
+    Monokle: n=22, mean=40.152, median=40.833, normal=True
+    Variance equal: True
+    Test used: t-test
+    p-value: 0.00096
+
+
+Don't know count (T1+T2 combined):
+    DeMAF: n=22, mean=0.864, median=0.500, normal=False
+    Monokle: n=22, mean=2.182, median=1.000, normal=False
+    Variance equal: False
+    Test used: Mann-Whitney U
+    p-value: 0.09253
+
+
+Task time (T1+T2 combined):
+    DeMAF: n=22, mean=1387.045, median=1348.000, normal=True
+    Monokle: n=22, mean=1314.773, median=1303.500, normal=True
+    Variance equal: True
+    Test used: t-test
+    p-value: 0.43558
+
+
+NASA Likert (Normalized Aggregated) (T1+T2 combined):
+    DeMAF: n=22, mean=3.655, median=4.000, normal=True
+    Monokle: n=22, mean=4.491, median=4.600, normal=True
+    Variance equal: True
+    Test used: t-test
+    p-value: 0.01312
+
+  Likert: LQ_1 (T1+T2 combined):
+    DeMAF: n=22, mean=4.182, median=5.000, normal=False
+    Monokle: n=22, mean=5.273, median=5.000, normal=False
+    Variance equal: True
+    Test used: Mann-Whitney U
+    p-value: 0.01287
+
+  Likert: LQ_2 (T1+T2 combined):
+    DeMAF: n=22, mean=2.864, median=2.500, normal=False
+    Monokle: n=22, mean=3.182, median=3.000, normal=False
+    Variance equal: True
+    Test used: Mann-Whitney U
+    p-value: 0.53673
+
+  Likert: LQ_3 (T1+T2 combined):
+    DeMAF: n=22, mean=3.591, median=3.000, normal=False
+    Monokle: n=22, mean=4.227, median=5.000, normal=True
+    Variance equal: True
+    Test used: Mann-Whitney U
+    p-value: 0.20325
+
+  Likert: LQ_4 (T1+T2 combined):
+    DeMAF: n=22, mean=4.091, median=4.500, normal=True
+    Monokle: n=22, mean=4.955, median=5.000, normal=False
+    Variance equal: True
+    Test used: Mann-Whitney U
+    p-value: 0.03425
+
+  Likert: LQ_5 (T1+T2 combined):
+    DeMAF: n=22, mean=3.545, median=4.000, normal=True
+    Monokle: n=22, mean=4.818, median=5.000, normal=False
+    Variance equal: True
+    Test used: Mann-Whitney U
+    p-value: 0.01448
+
+  Likert: LQ_6 (T1+T2 combined):
+    DeMAF: n=22, mean=3.227, median=3.000, normal=True
+    Monokle: n=22, mean=2.227, median=2.000, normal=False
+    Variance equal: True
+    Test used: Mann-Whitney U
+    p-value: 0.01281
+
+  Likert: LQ_7 (T1+T2 combined):
+    DeMAF: n=22, mean=3.273, median=3.000, normal=False
+    Monokle: n=22, mean=2.591, median=3.000, normal=False
+    Variance equal: True
+    Test used: Mann-Whitney U
+    p-value: 0.05106
+
+  Likert: LQ_8 (T1+T2 combined):
+    DeMAF: n=22, mean=3.727, median=4.000, normal=False
+    Monokle: n=22, mean=2.955, median=3.000, normal=False
+    Variance equal: True
+    Test used: Mann-Whitney U
+    p-value: 0.02394
+
+  Likert: LQ_9 (T1+T2 combined):
+    DeMAF: n=22, mean=3.045, median=3.000, normal=False
+    Monokle: n=22, mean=2.455, median=2.000, normal=False
+    Variance equal: True
+    Test used: Mann-Whitney U
+    p-value: 0.06499
+
+  Likert: LQ_10 (T1+T2 combined):
+    DeMAF: n=22, mean=3.591, median=4.000, normal=False
+    Monokle: n=22, mean=3.000, median=3.000, normal=True
+    Variance equal: True
+    Test used: Mann-Whitney U
+    p-value: 0.10163
+
+  Likert: LQ_11 (T1+T2 combined):
+    DeMAF: n=22, mean=2.818, median=3.000, normal=True
+    Monokle: n=22, mean=2.364, median=2.000, normal=False
+    Variance equal: True
+    Test used: Mann-Whitney U
+    p-value: 0.16554
+
+  Likert: LQ_12 (T1+T2 combined):
+    DeMAF: n=22, mean=3.500, median=4.000, normal=False
+    Monokle: n=22, mean=3.091, median=3.000, normal=False
+    Variance equal: True
+    Test used: Mann-Whitney U
+    p-value: 0.31616
+
+  Likert: LQ_13 (T1+T2 combined):
+    DeMAF: n=22, mean=3.591, median=4.000, normal=False
+    Monokle: n=22, mean=2.682, median=2.500, normal=False
+    Variance equal: True
+    Test used: Mann-Whitney U
+    p-value: 0.01677
+
+  Likert: LQ_14 (T1+T2 combined):
+    DeMAF: n=22, mean=3.182, median=3.000, normal=False
+    Monokle: n=22, mean=2.455, median=2.000, normal=False
+    Variance equal: True
+    Test used: Mann-Whitney U
+    p-value: 0.06067
+
+  Likert: LQ_15 (T1+T2 combined):
+    DeMAF: n=22, mean=3.545, median=3.500, normal=False
+    Monokle: n=22, mean=2.909, median=3.000, normal=True
+    Variance equal: True
+    Test used: Mann-Whitney U
+    p-value: 0.06458
+

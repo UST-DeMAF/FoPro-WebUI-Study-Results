@@ -1,0 +1,151 @@
+
+--- What was positive about the tool you used? (T1_LQ_17) ---
+
+[Demaf]
+Participant 55bd3e: the information which was shown was easy to understand
+Participant bd2070: highlight all
+Participant ba8305: it was easy to use and it clearly represented the interaction between the different services.
+Participant 27f79f: intuitive colorcoding, ability to reorganize the arrangement of nodes
+Participant 54fa1e: simple and easy to use
+Participant f7aed8: the tool was helpful but documentation could be more.
+Participant 6c0253: the structure and the drag-in and drag-out feature
+
+[Monokle]
+Participant 1fd9b5: graphical interface
+Participant 58a4d6: the structure being partitioned into different categories was helpful to get a good overview. the general layout is very similar to other ides, making it easy to find things.
+Participant f931c7: the tool was good visually and i could navigate easily through the files . also the structure was good to navigate through the sub modules and attributes.
+Participant 919b06: tree structure, link function based on the graphs, dark theme
+Participant 894bea: nice file structure
+Participant 5b7292: pleasant user-interface
+Participant e6de2f: multiple ways to get information
+
+--- What was negative about the tool you used? (T1_LQ_18) ---
+
+[Demaf]
+Participant 55bd3e: it was difficult to find where certain information was shown, such as e.g. the version or if something is a database.
+Participant bd2070: clustered
+Participant 27f79f: no search function i was aware of
+Participant f7aed8: may be some tutorials could be useful.
+Participant ad6229: ui could be much better with detailed graphics, graph connections in particular it looks very raw, adding a textbar where one could enter info about the nodes.
+Participant c62bc7: the jaeger i cant find and also the spring, and ui information was not visible and also the color coding of the components should be done and naming should be provided more convincing
+Participant 6c0253: i liked it so far
+
+[Monokle]
+Participant 49b094: the tool only provides a minimal amount of visualization.
+Participant 58a4d6: the graph visualization did not provide more information to me than i could find otherwise, so it did not seem very useful to me.
+Participant f931c7: as of such not much negative had all necessary visualization qualities so satisfies with it .
+Participant 919b06: submenus are huge in the form tab
+Participant 894bea: search feature
+Participant 5b7292: not sure if i understood the graphs correctly
+
+--- What was positive about the tool you used?.1 (T2_LQ_17) ---
+
+[Demaf]
+Participant 49b094: very clear which services connect to each other, provides a lot of useful information.
+Participant 59278c: direkte darstellung der graph struktur (verbindungen)
+Participant 34a7ac: the graphical representations of the nodes
+Participant 58a4d6: the graphical representation gave a nice overview over what services existed. the color-coded nodes were helpful to determine types (once i realized that the color coding existed). the ability to switch to the original text representation was useful.
+Participant f931c7: the tool had good graphical representation and the modules had all attributes described at a single node so easier to interpret.
+Participant 919b06: browser based, filter buttons granulare veränderung des detailgrads, umschaltmöglichkeit zwischen grafischer und textbasierter darstellung
+Participant 894bea: graph structure
+Participant 5b7292: in browser usage
+
+[Monokle]
+Participant 55bd3e: the "form" tab displayed pretty extensive information. separation between service/deployment etc.
+Participant bd2070: the search bar
+Participant 27f79f: lots of detailed information
+Participant f7aed8: i can find the values very fast through this tool because, the search feature was quite nice and intutive.
+Participant ad6229: ui was good, navigation to the source code was easy to interpret and this is where i found most of information rather than in graphs.
+Participant c62bc7: it provides all the information using yaml file and easily accessible
+Participant 6c0253: the dashboard and the graphs are appealing
+
+--- What was negative about the tool you used?.1 (T2_LQ_18) ---
+
+[Demaf]
+Participant 49b094: fix images, make things less breakable (startup config). names are often cut of, which makes searching difficult.
+Participant 59278c: ['name nicht direkt ersichtlich' 'anzahl schwierig zu finden']
+Participant 34a7ac: there was no easy way to see how many services and or databases were active. the connecting lines of services were visually placed above certain ui components which made it really difficult to read some ui panels.
+Participant 58a4d6: the connecting lines running through nodes were confusing since you often needed to move nodes in order to accurately determine where they were connected to. i ended up using the text-based representation to find out what services have the addresses of other services in their properties (assuming that means they are connected). the names of the nodes were truncated, which made finding specific services hard because most of the names start with the same words (the name of the demo). while the properties window was a nice overview of all properties, most of them seemed irrelevant to the actual node. there were a lot of options for the visualization which would certainly be helpful after gaining an understanding of the tool, but felt rather overwhelming as someone who had never worked with a similar tool before.
+Participant b69722: summary nicht nötig, dokumentiert wurde alles vor dem upload zu ausführlich und danach zu wenig
+Participant f931c7: the connections were clear but not easily understandable until you get a right hang of it
+Participant 919b06: default ansicht ist überladen, da alles auf wenig platz dargestellt wird (wenige levels in der darstellung). kommunikatonsbeziehung waren dadurch schlecht nachzuvollziehen ohne die bausteine zu verschieben. textsuche geht nur durch browsersuche (strg f). namen sind abgekürzt, dadurch schwer zu finden.
+Participant 894bea: names of the nodes
+Participant 5b7292: kind of overloaded, confusing user interface
+Participant e6de2f: can not see the full name until hovered over the block
+
+[Monokle]
+Participant 55bd3e: graph view was almost unusuable as there were way to many links. it was difficult to follow links, since you had to click around between too many files, this also ment it was unclear where what was recorded.
+Participant bd2070: the overclustered graphes
+Participant ba8305: difficult to see the interactions between the different services in the graph section. difficult to find the exact service you are searching for in the graph section.
+Participant 27f79f: not very intuitive to me
+Participant 54fa1e: so much information
+Participant f7aed8: visualisation was not clear, some hints could be better to understand difference between services, config, databases etc.
+Participant ad6229: very complex to understand, documentation could be better, visualsation should have easy access to the information so user does not have to look around to understand things.
+Participant c62bc7: the graphical representation was frustrating and confusing it was a hard to get the data directly from the graphical representation
+Participant 6c0253: database service could be separately shown and it's design is bit difficult to grasp at first glance
+
+--- Do you have additional feedback on the tools you used in this study? (CQ_7) ---
+Participant 49b094: add search functionality.
+Participant 55bd3e: i much preferred the ui on demaf, monokle was very overwhelming and also provided so much more functionallity which was not really related to the task but was distracting, as it was not really obvious at first, where information would be displayed.
+Participant bd2070: demaf könnte eine aufzählung gebrauchen.
+Participant ba8305: an easier description of the key usage in the documentation.
+Participant 58a4d6: ['the structure of demaf was very different from monokle and other ides i used before, which gave monokle the strong advantage of familiarity'
+ 'if demaf had a similar structure (file explorer part etc.) it might be easier to understand for people used to working with ides.']
+Participant 919b06: beide tools haben vor und nachteile. was mir in monokel besser gefallen hat ist die darstellung in ordnerstruktur. demaf hat eine bessere übersicht über die kommunikationsbeziehungen aber man muss die bausteine erst verschieben um von der ansicht zu profitieren. die detailansicht die sich durch klicken auf die bausteine öffnet, ist gut struktiuriert und granular. wenn man die ansicht verändert und noch eine ordnerstruktur dazu baut ist das tool fast sogar besser wie monokel.
+Participant f7aed8: for some part demaf was better like visualisation and for other part like finding the values i found the monokule tool much helpful.
+Participant 5b7292: auto align feature of the nodes for demaf
+Participant ad6229: at first demaf was not visually appealing but easy to use, can get access to info easily as compared to monokle. but monokle's ui was much better. adding a button to show source code in the description of nodes would be a better idea.
+Participant c62bc7: the monokle is good in terms of the resource distribution and its information and the demaf provides easy visualization compared to monokle in the monokle naming of the types should be improved the demaf can be improved with a ui and also the prettier for the yaml file
+
+--- What did you like most about this study? (FQ_1) ---
+Participant 49b094: deployment models are great.
+Participant 55bd3e: using winery again after quite some time.
+Participant 59278c: bei demaf deutlich schneller fragen beantworten zu können
+Participant bd2070: the graphes.
+Participant 1fd9b5: how service are interacting and how we can represent them using the graphical interface
+Participant ba8305: see another technical area.
+Participant 58a4d6: i like learning about tools using trial-and-error rather than the documentation (which is why i did not spend much time with the provided documentation) and it felt like this strategy worked reasonably well here.
+Participant 27f79f: very interesting to see different visualization options
+Participant f931c7: exploring the attributes and connecting the dots through it.
+Participant 54fa1e: easy to use
+Participant 919b06: direkter vergleich zwischen zwei tools.
+Participant f7aed8: i like the mentor for the help for the hints and understanding the problem statement better.
+Participant 894bea: exploring different models.
+Participant 5b7292: hands on practical usage of tools
+Participant c62bc7: i got to know about new tools for visualization
+Participant e6de2f: got to know about an easier tool
+Participant 6c0253: i like most about the structure of the tool and the comparison between two tools justifies
+
+--- What did you find challenging or unclear? (FQ_2) ---
+Participant 49b094: some information was simply not provided in any way by the first tool
+Participant 55bd3e: its always difficult to learn new uis if you are completely new to them. especially, trying to find the specific location where a certain information is displayed. also, since i only worked with deplyoment models a while back, remembering the exact way of writing eg. internal and mapped port.
+Participant 59278c: informationen im ersten tool zu finden
+Participant ba8305: using tools like that.
+Participant 34a7ac: i'm not an informatics expert. understanding the tasks was tricky
+Participant 3caa4e: die aufgaben waren für mein persönliches wissen etwas anspruchsvoll, trotzdem hat es irgendwie spaß gemacht mit neuen tools "rumzuspielen"
+Participant 27f79f: the documentations were little helpful at better understanding the task
+Participant b69722: schwierig ohne vorwissen, ich habe nur nach wörtern aus den fragestellungen gesucht
+Participant f931c7: yes a bit challenging
+Participant f7aed8: yes a little bit challenging may be because i was using it first time.
+Participant 894bea: description of the tasks were not clear.
+Participant 5b7292: switching between tabs of the exercise and the documentation
+Participant c62bc7: interpreting graphical interface of monokle
+Participant 6c0253: it was clear after the documentation
+
+--- Do you have any suggestions for improving the study or our tool (DeMAF) used? (FQ_3) ---
+Participant 49b094: not sure if you randomized tasks and tool, but that is something you could do.
+Participant 55bd3e: maybe clean up the key value display, that is the only part i preferred for the other tool. as in display the information like ports more cleanly. also an easier way to inspect the artifacts, maybe just in a single inspection window.
+Participant 59278c: ['übersichtsseite mit allen daten werten'
+ 'herauszoomen aus der darstellung']
+Participant bd2070: die zu langen namen die das knotenlayout ein bisschen kaputt gemacht haben
+Participant ba8305: icons in the services when seeing the graph
+Participant 27f79f: search function
+Participant f7aed8: documentation could be improved and some videos could be helpful like tutorials.
+Participant 5b7292: no not really
+Participant e6de2f: if it could just show the service  or database name on the block without hovering over it
+Participant 6c0253: i liked it so far
+
+--- Any additional comments? (FQ_8) ---
+Participant bd2070: die markiere funktion ist toll
+Participant f7aed8: thanks
+Participant 5b7292: -

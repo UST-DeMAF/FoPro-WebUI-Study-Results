@@ -1,0 +1,47 @@
+Participant 'don't know' counts:
+Participant 1 (UUID: 49b094): 2
+Participant 2 (UUID: 55bd3e): 6
+Participant 3 (UUID: 59278c): 9
+Participant 4 (UUID: bd2070): 1
+Participant 5 (UUID: 1fd9b5): 12
+Participant 6 (UUID: ba8305): 2
+Participant 7 (UUID: 34a7ac): 0
+Participant 8 (UUID: 3caa4e): 1
+Participant 9 (UUID: 58a4d6): 0
+Participant 10 (UUID: 27f79f): 1
+Participant 11 (UUID: b69722): 10
+Participant 12 (UUID: f931c7): 2
+Participant 13 (UUID: 9bbcd6): 8
+Participant 14 (UUID: 54fa1e): 3
+Participant 15 (UUID: 919b06): 2
+Participant 16 (UUID: f7aed8): 6
+Participant 17 (UUID: 894bea): 9
+Participant 18 (UUID: 5b7292): 2
+Participant 19 (UUID: ad6229): 5
+Participant 20 (UUID: c62bc7): 3
+Participant 21 (UUID: e6de2f): 5
+Participant 22 (UUID: 6c0253): 0
+
+Per question 'don't know' statistics:
+T1_UQ_2: counts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0], median = 0.0, mean = 0.09
+T1_UQ_3: counts = [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0], median = 0.0, mean = 0.18
+T1_UQ_4: counts = [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0], median = 0.0, mean = 0.18
+T1_UQ_5: counts = [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0], median = 0.0, mean = 0.23
+T1_UQ_6: counts = [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0], median = 0.0, mean = 0.18
+T1_UQ_7: counts = [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0], median = 0.0, mean = 0.18
+T1_UQ_8: counts = [1, 0, 1, 0, 1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0], median = 1.0, mean = 0.64
+T1_UQ_9: counts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], median = 0.0, mean = 0.0
+T1_UQ_10: counts = [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0], median = 0.0, mean = 0.14
+T1_UQ_11: counts = [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0], median = 0.0, mean = 0.18
+T1_UQ_12: counts = [0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0], median = 0.0, mean = 0.27
+T1_UQ_13: counts = [0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0], median = 0.0, mean = 0.18
+T2_UQ_2: counts = [0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], median = 0.0, mean = 0.09
+T2_UQ_3: counts = [0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0], median = 0.0, mean = 0.14
+T2_UQ_4: counts = [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0], median = 0.0, mean = 0.18
+T2_UQ_5: counts = [0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0], median = 0.0, mean = 0.18
+T2_UQ_6: counts = [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0], median = 0.0, mean = 0.14
+T2_UQ_7: counts = [0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0], median = 0.0, mean = 0.23
+T2_UQ_8: counts = [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0], median = 0.0, mean = 0.14
+T2_UQ_9: counts = [0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0], median = 0.0, mean = 0.18
+T2_UQ_10: counts = [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0], median = 0.0, mean = 0.18
+T2_UQ_11: counts = [0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], median = 0.0, mean = 0.14

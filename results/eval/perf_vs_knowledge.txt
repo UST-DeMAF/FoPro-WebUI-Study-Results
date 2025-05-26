@@ -1,0 +1,89 @@
+Comparison of Performance Columns to Knowledge (KQ_4):
+
+T1_UQ_2_perf vs KQ_4:
+  Pearson correlation: -0.136 (p=0.547)
+  Spearman correlation: -0.106 (p=0.638)
+
+T1_UQ_3_perf vs KQ_4:
+  Pearson correlation: 0.083 (p=0.712)
+  Spearman correlation: 0.084 (p=0.711)
+
+T1_UQ_4_perf vs KQ_4:
+  Pearson correlation: -0.261 (p=0.241)
+  Spearman correlation: -0.240 (p=0.282)
+
+T1_UQ_5_perf vs KQ_4:
+  Pearson correlation: 0.064 (p=0.778)
+  Spearman correlation: 0.080 (p=0.723)
+
+T1_UQ_6_perf vs KQ_4:
+  Pearson correlation: 0.131 (p=0.561)
+  Spearman correlation: 0.155 (p=0.491)
+
+T1_UQ_7_perf vs KQ_4:
+  Pearson correlation: -0.163 (p=0.468)
+  Spearman correlation: -0.134 (p=0.551)
+
+T1_UQ_8_perf vs KQ_4:
+  Pearson correlation: -0.208 (p=0.352)
+  Spearman correlation: -0.202 (p=0.368)
+
+T1_UQ_9_perf vs KQ_4:
+  Pearson correlation: -0.009 (p=0.969)
+  Spearman correlation: 0.000 (p=1)
+
+T1_UQ_10_perf vs KQ_4:
+  Pearson correlation: -0.362 (p=0.0975)
+  Spearman correlation: -0.364 (p=0.0955)
+
+T1_UQ_11_perf vs KQ_4:
+  Pearson correlation: 0.024 (p=0.916)
+  Spearman correlation: 0.000 (p=1)
+
+T1_UQ_12_perf vs KQ_4:
+  Pearson correlation: 0.208 (p=0.352)
+  Spearman correlation: 0.186 (p=0.407)
+
+T1_UQ_13_perf vs KQ_4:
+  Pearson correlation: 0.089 (p=0.695)
+  Spearman correlation: 0.089 (p=0.694)
+
+T2_UQ_2_perf vs KQ_4:
+  Pearson correlation: 0.151 (p=0.501)
+  Spearman correlation: 0.112 (p=0.619)
+
+T2_UQ_3_perf vs KQ_4:
+  Pearson correlation: -0.039 (p=0.865)
+  Spearman correlation: -0.047 (p=0.837)
+
+T2_UQ_4_perf vs KQ_4:
+  Pearson correlation: -0.030 (p=0.894)
+  Spearman correlation: 0.000 (p=1)
+
+T2_UQ_5_perf vs KQ_4:
+  Pearson correlation: -0.232 (p=0.3)
+  Spearman correlation: -0.251 (p=0.26)
+
+T2_UQ_6_perf vs KQ_4:
+  Pearson correlation: -0.232 (p=0.3)
+  Spearman correlation: -0.251 (p=0.26)
+
+T2_UQ_7_perf vs KQ_4:
+  Pearson correlation: -0.279 (p=0.208)
+  Spearman correlation: -0.243 (p=0.276)
+
+T2_UQ_8_perf vs KQ_4:
+  Pearson correlation: 0.216 (p=0.334)
+  Spearman correlation: 0.264 (p=0.236)
+
+T2_UQ_9_perf vs KQ_4:
+  Pearson correlation: -0.346 (p=0.114)
+  Spearman correlation: -0.368 (p=0.0923)
+
+T2_UQ_10_perf vs KQ_4:
+  Pearson correlation: -0.175 (p=0.436)
+  Spearman correlation: -0.151 (p=0.503)
+
+T2_UQ_11_perf vs KQ_4:
+  Pearson correlation: 0.186 (p=0.407)
+  Spearman correlation: 0.214 (p=0.34)

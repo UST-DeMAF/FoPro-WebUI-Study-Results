@@ -1,0 +1,8 @@
+Favorite Tool distribution by Knowledge (How familiar are you with deployment technologies?):
+CQ_6  demaf  indecisive  monokle
+KQ_4                            
+1         5           2        1
+2         2           2        2
+3         3           0        1
+4         2           1        1
+5         0           0        0

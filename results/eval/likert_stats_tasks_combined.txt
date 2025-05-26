@@ -1,0 +1,212 @@
+
+Statistics for How mentally demanding were the tasks? (combined T1+T2):
+[Both]:
+ Values: [5, 5, 6, 2, 3, 5, 6, 6, 6, 4, 7, 4, 5, 1, 3, 5, 5, 5, 3, 4, 5, 1, 4, 6, 3, 6, 5, 6, 6, 7, 6, 5, 5, 5, 7, 5, 5, 5, 2, 5, 6, 3, 5, 5]
+ Median: 5.0, Mean: 4.73, Mode: 5, Std Dev: 1.47
+[DeMAF]:
+ Values: [5, 2, 5, 6, 4, 5, 1, 5, 3, 4, 1, 4, 3, 5, 6, 6, 5, 5, 5, 2, 5, 5]
+ Median: 5.0, Mean: 4.18, Mode: 5, Std Dev: 1.53
+[Monokle]:
+ Values: [5, 6, 3, 6, 6, 7, 4, 3, 5, 5, 5, 6, 6, 6, 7, 5, 7, 5, 5, 6, 3, 5]
+ Median: 5.0, Mean: 5.27, Mode: 5, Std Dev: 1.2
+
+Statistics for How hurried or rushed were the pace of the tasks? (combined T1+T2):
+[Both]:
+ Values: [2, 5, 2, 2, 4, 3, 5, 2, 2, 2, 6, 2, 4, 1, 1, 3, 2, 3, 3, 2, 4, 1, 2, 5, 1, 6, 2, 4, 5, 1, 2, 2, 5, 4, 2, 4, 3, 5, 2, 4, 3, 2, 5, 3]
+ Median: 3.0, Mean: 3.02, Mode: 2, Std Dev: 1.44
+[DeMAF]:
+ Values: [5, 2, 3, 2, 2, 4, 1, 3, 3, 2, 1, 2, 1, 2, 5, 2, 5, 4, 3, 2, 4, 5]
+ Median: 2.5, Mean: 2.86, Mode: 2, Std Dev: 1.36
+[Monokle]:
+ Values: [2, 2, 4, 5, 2, 6, 2, 1, 2, 3, 4, 5, 6, 4, 1, 2, 2, 4, 5, 3, 2, 3]
+ Median: 3.0, Mean: 3.18, Mode: 2, Std Dev: 1.53
+
+Statistics for How successful were you in accomplishing what you were asked to do? (combined T1+T2):
+[Both]:
+ Values: [6, 2, 6, 5, 4, 2, 5, 4, 3, 2, 7, 5, 5, 3, 3, 5, 3, 5, 2, 4, 6, 1, 2, 2, 5, 5, 6, 4, 6, 5, 3, 5, 6, 5, 2, 5, 3, 4, 2, 3, 5, 2, 3, 1]
+ Median: 4.0, Mean: 3.91, Mode: 5, Std Dev: 1.58
+[DeMAF]:
+ Values: [2, 5, 2, 4, 2, 5, 3, 5, 2, 4, 1, 2, 5, 6, 6, 3, 6, 5, 3, 2, 3, 3]
+ Median: 3.0, Mean: 3.59, Mode: 2, Std Dev: 1.56
+[Monokle]:
+ Values: [6, 6, 4, 5, 3, 7, 5, 3, 3, 5, 6, 2, 5, 4, 5, 5, 2, 5, 4, 5, 2, 1]
+ Median: 5.0, Mean: 4.23, Mode: 5, Std Dev: 1.57
+
+Statistics for How hard did you have to work to accomplish your level of performance? (combined T1+T2):
+[Both]:
+ Values: [3, 5, 5, 4, 3, 2, 6, 5, 6, 5, 6, 4, 5, 2, 2, 5, 6, 5, 3, 4, 5, 1, 4, 6, 3, 4, 5, 6, 6, 7, 7, 5, 3, 5, 6, 5, 5, 5, 2, 4, 5, 5, 5, 4]
+ Median: 5.0, Mean: 4.52, Mode: 5, Std Dev: 1.41
+[DeMAF]:
+ Values: [5, 4, 2, 5, 5, 5, 2, 5, 3, 4, 1, 4, 3, 5, 6, 7, 3, 5, 5, 2, 4, 5]
+ Median: 4.5, Mean: 4.09, Mode: 5, Std Dev: 1.48
+[Monokle]:
+ Values: [3, 5, 3, 6, 6, 6, 4, 2, 6, 5, 5, 6, 4, 6, 7, 5, 6, 5, 5, 5, 5, 4]
+ Median: 5.0, Mean: 4.95, Mode: 5, Std Dev: 1.21
+
+Statistics for How insecure, discouraged, irritated, stressed and annoyed were you when working on the tasks using this tool? (combined T1+T2):
+[Both]:
+ Values: [6, 5, 5, 4, 3, 2, 5, 5, 5, 3, 6, 2, 1, 1, 3, 4, 5, 5, 2, 5, 6, 1, 1, 7, 4, 6, 5, 6, 6, 6, 7, 6, 4, 3, 4, 5, 6, 6, 2, 4, 4, 3, 3, 2]
+ Median: 4.5, Mean: 4.18, Mode: 6, Std Dev: 1.73
+[DeMAF]:
+ Values: [5, 4, 2, 5, 3, 1, 1, 4, 2, 5, 1, 1, 4, 5, 6, 7, 4, 3, 6, 2, 4, 3]
+ Median: 4.0, Mean: 3.55, Mode: 4, Std Dev: 1.79
+[Monokle]:
+ Values: [6, 5, 3, 5, 5, 6, 2, 3, 5, 5, 6, 7, 6, 6, 6, 6, 4, 5, 6, 4, 3, 2]
+ Median: 5.0, Mean: 4.82, Mode: 6, Std Dev: 1.44
+
+Statistics for The visualization helped me understand the deployment model clearly.   (combined T1+T2):
+[Both]:
+ Values: [1, 3, 3, 2, 4, 4, 3, 3, 4, 4, 1, 4, 4, 4, 3, 5, 1, 2, 2, 2, 3, 5, 5, 1, 4, 1, 2, 1, 2, 2, 1, 2, 1, 3, 2, 1, 3, 3, 4, 3, 1, 2, 5, 4]
+ Median: 3.0, Mean: 2.73, Mode: 1, Std Dev: 1.3
+[DeMAF]:
+ Values: [3, 2, 4, 3, 4, 4, 4, 5, 2, 2, 5, 5, 4, 2, 2, 1, 1, 3, 3, 4, 3, 5]
+ Median: 3.0, Mean: 3.23, Mode: 4, Std Dev: 1.27
+[Monokle]:
+ Values: [1, 3, 4, 3, 4, 1, 4, 3, 1, 2, 3, 1, 1, 1, 2, 2, 2, 1, 3, 1, 2, 4]
+ Median: 2.0, Mean: 2.23, Mode: 1, Std Dev: 1.15
+
+Statistics for The information presented was easy to interpret. (combined T1+T2):
+[Both]:
+ Values: [1, 4, 2, 4, 4, 4, 3, 2, 2, 3, 1, 4, 5, 4, 3, 4, 2, 2, 2, 3, 3, 5, 3, 3, 4, 3, 2, 1, 2, 3, 2, 2, 3, 2, 2, 2, 3, 3, 4, 2, 3, 5, 5, 3]
+ Median: 3.0, Mean: 2.93, Mode: 2, Std Dev: 1.09
+[DeMAF]:
+ Values: [4, 4, 4, 2, 3, 5, 4, 4, 2, 3, 5, 3, 4, 2, 2, 2, 3, 2, 3, 4, 2, 5]
+ Median: 3.0, Mean: 3.27, Mode: 4, Std Dev: 1.08
+[Monokle]:
+ Values: [1, 2, 4, 3, 2, 1, 4, 3, 2, 2, 3, 3, 3, 1, 3, 2, 2, 2, 3, 3, 5, 3]
+ Median: 3.0, Mean: 2.59, Mode: 3, Std Dev: 1.01
+
+Statistics for The tool was easy to navigate. (combined T1+T2):
+[Both]:
+ Values: [4, 5, 2, 4, 3, 4, 3, 4, 4, 5, 2, 4, 5, 4, 4, 5, 3, 4, 3, 2, 4, 4, 4, 1, 3, 4, 5, 1, 2, 2, 2, 3, 4, 4, 1, 3, 2, 3, 4, 2, 2, 4, 5, 4]
+ Median: 4.0, Mean: 3.34, Mode: 4, Std Dev: 1.16
+[DeMAF]:
+ Values: [5, 4, 4, 4, 5, 5, 4, 5, 3, 2, 4, 4, 3, 5, 2, 2, 4, 4, 2, 4, 2, 5]
+ Median: 4.0, Mean: 3.73, Mode: 4, Std Dev: 1.12
+[Monokle]:
+ Values: [4, 2, 3, 3, 4, 2, 4, 4, 3, 4, 4, 1, 4, 1, 2, 3, 1, 3, 3, 2, 4, 4]
+ Median: 3.0, Mean: 2.95, Mode: 4, Std Dev: 1.09
+
+Statistics for I could efficiently find the information I needed. (combined T1+T2):
+[Both]:
+ Values: [2, 2, 2, 4, 3, 4, 2, 3, 3, 3, 1, 3, 4, 4, 3, 4, 2, 2, 2, 3, 3, 4, 3, 1, 4, 4, 2, 1, 2, 2, 1, 1, 3, 3, 2, 3, 2, 2, 4, 1, 3, 4, 5, 5]
+ Median: 3.0, Mean: 2.75, Mode: 2, Std Dev: 1.1
+[DeMAF]:
+ Values: [2, 4, 4, 3, 3, 4, 4, 4, 2, 3, 4, 3, 4, 2, 2, 1, 3, 3, 2, 4, 1, 5]
+ Median: 3.0, Mean: 3.05, Mode: 4, Std Dev: 1.09
+[Monokle]:
+ Values: [2, 2, 3, 2, 3, 1, 3, 3, 2, 2, 3, 1, 4, 1, 2, 1, 2, 3, 2, 3, 4, 5]
+ Median: 2.0, Mean: 2.45, Mode: 2, Std Dev: 1.06
+
+Statistics for The tool provided all necessary information about the deployment model. (combined T1+T2):
+[Both]:
+ Values: [1, 4, 2, 4, 4, 4, 3, 3, 4, 2, 2, 4, 5, 4, 2, 4, 2, 3, 2, 4, 3, 5, 5, 3, 2, 1, 3, 2, 3, 3, 4, 5, 3, 4, 5, 2, 4, 4, 3, 2, 2, 4, 5, 5]
+ Median: 3.0, Mean: 3.3, Mode: 4, Std Dev: 1.15
+[DeMAF]:
+ Values: [4, 4, 4, 3, 2, 5, 4, 4, 2, 4, 5, 5, 2, 3, 3, 4, 3, 4, 4, 3, 2, 5]
+ Median: 4.0, Mean: 3.59, Mode: 4, Std Dev: 1.01
+[Monokle]:
+ Values: [1, 2, 4, 3, 4, 2, 4, 2, 2, 3, 3, 3, 1, 2, 3, 5, 5, 2, 4, 2, 4, 5]
+ Median: 3.0, Mean: 3.0, Mode: 2, Std Dev: 1.23
+
+Statistics for I was able to extract the required details without difficulty. (combined T1+T2):
+[Both]:
+ Values: [1, 1, 1, 3, 3, 3, 3, 2, 3, 4, 1, 3, 4, 4, 3, 3, 2, 2, 3, 3, 3, 4, 3, 1, 2, 3, 2, 2, 2, 2, 1, 2, 2, 3, 2, 2, 2, 4, 4, 2, 2, 4, 5, 3]
+ Median: 3.0, Mean: 2.59, Mode: 3, Std Dev: 1.0
+[DeMAF]:
+ Values: [1, 3, 3, 2, 4, 4, 4, 3, 3, 3, 4, 3, 2, 2, 2, 1, 2, 3, 2, 4, 2, 5]
+ Median: 3.0, Mean: 2.82, Mode: 3, Std Dev: 1.05
+[Monokle]:
+ Values: [1, 1, 3, 3, 3, 1, 3, 3, 2, 2, 3, 1, 3, 2, 2, 2, 2, 2, 4, 2, 4, 3]
+ Median: 2.0, Mean: 2.36, Mode: 3, Std Dev: 0.9
+
+Statistics for The graphical representation was visually appealing. (combined T1+T2):
+[Both]:
+ Values: [2, 4, 4, 3, 4, 5, 3, 4, 4, 5, 3, 5, 5, 3, 4, 4, 1, 5, 1, 2, 5, 5, 3, 3, 5, 1, 3, 3, 2, 2, 4, 1, 4, 2, 3, 3, 2, 3, 4, 3, 4, 1, 4, 4]
+ Median: 3.0, Mean: 3.3, Mode: 4, Std Dev: 1.25
+[DeMAF]:
+ Values: [4, 3, 5, 4, 5, 5, 3, 4, 1, 2, 5, 3, 5, 3, 2, 4, 4, 2, 2, 4, 3, 4]
+ Median: 4.0, Mean: 3.5, Mode: 4, Std Dev: 1.19
+[Monokle]:
+ Values: [2, 4, 4, 3, 4, 3, 5, 4, 1, 5, 5, 3, 1, 3, 2, 1, 3, 3, 3, 4, 1, 4]
+ Median: 3.0, Mean: 3.09, Mode: 3, Std Dev: 1.31
+
+Statistics for The layout and design made it easy to follow the model structure. (combined T1+T2):
+[Both]:
+ Values: [1, 4, 2, 4, 4, 5, 3, 3, 4, 3, 2, 4, 5, 3, 4, 4, 2, 4, 2, 4, 4, 5, 5, 1, 4, 2, 3, 2, 4, 1, 2, 3, 3, 2, 3, 2, 2, 5, 4, 3, 2, 1, 5, 3]
+ Median: 3.0, Mean: 3.14, Mode: 4, Std Dev: 1.21
+[DeMAF]:
+ Values: [4, 4, 5, 3, 3, 5, 3, 4, 2, 4, 5, 5, 4, 3, 4, 2, 3, 2, 2, 4, 3, 5]
+ Median: 4.0, Mean: 3.59, Mode: 4, Std Dev: 1.05
+[Monokle]:
+ Values: [1, 2, 4, 3, 4, 2, 4, 4, 2, 4, 4, 1, 2, 2, 1, 3, 3, 2, 5, 2, 1, 3]
+ Median: 2.5, Mean: 2.68, Mode: 2, Std Dev: 1.21
+
+Statistics for I could analyze the deployment model quickly using this tool. (combined T1+T2):
+[Both]:
+ Values: [2, 1, 2, 5, 4, 5, 3, 3, 2, 3, 1, 5, 4, 4, 3, 3, 3, 3, 1, 2, 2, 5, 4, 1, 4, 1, 3, 2, 3, 2, 1, 2, 2, 3, 3, 2, 2, 4, 5, 2, 2, 2, 5, 3]
+ Median: 3.0, Mean: 2.82, Mode: 2, Std Dev: 1.24
+[DeMAF]:
+ Values: [1, 5, 5, 3, 3, 4, 4, 3, 1, 2, 5, 4, 4, 3, 3, 1, 2, 3, 2, 5, 2, 5]
+ Median: 3.0, Mean: 3.18, Mode: 3, Std Dev: 1.37
+[Monokle]:
+ Values: [2, 2, 4, 3, 2, 1, 5, 3, 3, 3, 2, 1, 1, 2, 2, 2, 3, 2, 4, 2, 2, 3]
+ Median: 2.0, Mean: 2.45, Mode: 2, Std Dev: 1.01
+
+Statistics for The tool made the analysis process more efficient. (combined T1+T2):
+[Both]:
+ Values: [1, 4, 2, 3, 4, 4, 3, 3, 4, 4, 2, 5, 5, 3, 4, 4, 3, 4, 2, 3, 4, 5, 5, 1, 5, 3, 3, 2, 3, 2, 1, 3, 4, 3, 3, 2, 2, 4, 4, 3, 2, 3, 5, 3]
+ Median: 3.0, Mean: 3.23, Mode: 3, Std Dev: 1.12
+[DeMAF]:
+ Values: [4, 3, 4, 3, 4, 5, 3, 4, 2, 3, 5, 5, 5, 3, 3, 1, 4, 3, 2, 4, 3, 5]
+ Median: 3.5, Mean: 3.55, Mode: 3, Std Dev: 1.1
+[Monokle]:
+ Values: [1, 2, 4, 3, 4, 2, 5, 4, 3, 4, 4, 1, 3, 2, 2, 3, 3, 2, 4, 2, 3, 3]
+ Median: 3.0, Mean: 2.91, Mode: 3, Std Dev: 1.06
+
+Statistics for I liked this tool. (combined T1+T2):
+[Both]:
+ Values: [2, 3, 2, 2, 4, 4, 3, 3, 4, 4, 1, 4, 5, 4, 4, 4, 1, 4, 3, 2, 4, 5, 4, 1, 4, 3, 3, 2, 2, 2, 3, 2, 2, 3, 3, 2, 2, 3, 4, 2, 3, 3, 5, 4]
+ Median: 3.0, Mean: 3.05, Mode: 4, Std Dev: 1.08
+[DeMAF]:
+ Values: [3, 2, 4, 3, 4, 5, 4, 4, 3, 2, 5, 4, 4, 3, 2, 3, 2, 3, 2, 4, 2, 5]
+ Median: 3.0, Mean: 3.32, Mode: 4, Std Dev: 1.04
+[Monokle]:
+ Values: [2, 2, 4, 3, 4, 1, 4, 4, 1, 4, 4, 1, 3, 2, 2, 2, 3, 2, 3, 3, 3, 4]
+ Median: 3.0, Mean: 2.77, Mode: 4, Std Dev: 1.07
+
+Statistics for LQ_tooldoc (combined T1+T2) 
+[Both]:
+ Values: [2.0, 3.0, 2.0, 4.0, 4.0, 4.0, 3.0, 2.0, 2.0, 5.0, 3.0, 3.0, 2.0, 3.0, 3.0, 5.0, 4.0, 1.0, 4.0, 1.0, 3.0, 2.0, 1.0, 4.0, 1.0, 2.0, 5.0, 3.0, 4.0, 3.0, 4.0, 1.0, 4.0, 4.0]
+ Median: 3.0, Mean: 2.97, Mode: 4.0, Std Dev: 1.22
+[DeMAF]:
+ Values: [3.0, 4.0, 4.0, 3.0, 5.0, 3.0, 3.0, 3.0, 5.0, 4.0, 4.0, 3.0, 1.0, 4.0, 2.0, 5.0, 4.0, 4.0, 4.0]
+ Median: 4.0, Mean: 3.58, Mode: 4.0, Std Dev: 1.02
+[Monokle]:
+ Values: [2.0, 2.0, 4.0, 2.0, 2.0, 3.0, 2.0, 1.0, 1.0, 2.0, 1.0, 3.0, 3.0, 1.0, 4.0]
+ Median: 2.0, Mean: 2.2, Mode: 2.0, Std Dev: 1.01
+
+
+=== Top 2 NASA and none-NASA Best and Worst Performing Likert Columns (by mean) ===
+DeMAF:
+  Best:
+    How hurried or rushed were the pace of the tasks?: 2.86
+    How insecure, discouraged, irritated, stressed and annoyed were you when working on the tasks using this tool?: 3.55
+    The tool was easy to navigate.: 3.73
+    The tool provided all necessary information about the deployment model.: 3.59
+  Worst:
+    How mentally demanding were the tasks?: 4.18
+    How hard did you have to work to accomplish your level of performance?: 4.09
+    I was able to extract the required details without difficulty.: 2.82
+    I could efficiently find the information I needed.: 3.05
+Monokle:
+  Best:
+    How hurried or rushed were the pace of the tasks?: 3.18
+    How successful were you in accomplishing what you were asked to do?: 4.23
+    The graphical representation was visually appealing.: 3.09
+    The tool provided all necessary information about the deployment model.: 3.00
+  Worst:
+    How mentally demanding were the tasks?: 5.27
+    How hard did you have to work to accomplish your level of performance?: 4.95
+    LQ_tooldoc: 2.20
+    The visualization helped me understand the deployment model clearly.  : 2.23

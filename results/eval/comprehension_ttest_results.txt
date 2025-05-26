@@ -1,0 +1,293 @@
+
+--- T1 ---
+  Performance (Normalized Aggregated) (T1_perf_agg):
+    DeMAF: n=11, mean=64.394, median=75.000, normal=True
+    Monokle: n=11, mean=39.394, median=41.667, normal=True
+    Variance equal: True
+    Test used: t-test
+    p-value: 0.00160
+
+  Don't know count (T1_dont-know_agg):
+    DeMAF: n=11, mean=1.000, median=1.000, normal=True
+    Monokle: n=11, mean=2.727, median=2.000, normal=True
+    Variance equal: False
+    Test used: Welch's t-test
+    p-value: 0.05541
+
+  Task time (T1_time):
+    DeMAF: n=11, mean=1293.545, median=1231.000, normal=True
+    Monokle: n=11, mean=1390.727, median=1321.000, normal=True
+    Variance equal: True
+    Test used: t-test
+    p-value: 0.46695
+
+  NASA Likert (Normalized Aggregated) (T1_LQ_agg):
+    DeMAF: n=11, mean=3.236, median=3.400, normal=True
+    Monokle: n=11, mean=4.418, median=4.400, normal=True
+    Variance equal: True
+    Test used: t-test
+    p-value: 0.02254
+
+  Likert: T1_LQ_1:
+    DeMAF: n=11, mean=3.727, median=4.000, normal=True
+    Monokle: n=11, mean=5.000, median=5.000, normal=True
+    Variance equal: True
+    Test used: t-test
+    p-value: 0.06355
+
+  Likert: T1_LQ_2:
+    DeMAF: n=11, mean=2.545, median=2.000, normal=True
+    Monokle: n=11, mean=3.000, median=2.000, normal=True
+    Variance equal: True
+    Test used: t-test
+    p-value: 0.45259
+
+  Likert: T1_LQ_3:
+    DeMAF: n=11, mean=3.182, median=3.000, normal=True
+    Monokle: n=11, mean=4.818, median=5.000, normal=True
+    Variance equal: True
+    Test used: t-test
+    p-value: 0.01467
+
+  Likert: T1_LQ_4:
+    DeMAF: n=11, mean=3.727, median=4.000, normal=False
+    Monokle: n=11, mean=4.636, median=5.000, normal=True
+    Variance equal: True
+    Test used: Mann-Whitney U
+    p-value: 0.12757
+
+  Likert: T1_LQ_5:
+    DeMAF: n=11, mean=3.000, median=3.000, normal=True
+    Monokle: n=11, mean=4.636, median=5.000, normal=False
+    Variance equal: True
+    Test used: Mann-Whitney U
+    p-value: 0.01965
+
+  Likert: T1_LQ_6:
+    DeMAF: n=11, mean=3.455, median=4.000, normal=True
+    Monokle: n=11, mean=2.636, median=3.000, normal=False
+    Variance equal: True
+    Test used: Mann-Whitney U
+    p-value: 0.14538
+
+  Likert: T1_LQ_7:
+    DeMAF: n=11, mean=3.636, median=4.000, normal=True
+    Monokle: n=11, mean=2.455, median=2.000, normal=True
+    Variance equal: True
+    Test used: t-test
+    p-value: 0.01416
+
+  Likert: T1_LQ_8:
+    DeMAF: n=11, mean=4.091, median=4.000, normal=False
+    Monokle: n=11, mean=3.364, median=4.000, normal=False
+    Variance equal: True
+    Test used: Mann-Whitney U
+    p-value: 0.05181
+
+  Likert: T1_LQ_9:
+    DeMAF: n=11, mean=3.364, median=4.000, normal=False
+    Monokle: n=11, mean=2.364, median=2.000, normal=False
+    Variance equal: True
+    Test used: Mann-Whitney U
+    p-value: 0.00949
+
+  Likert: T1_LQ_10:
+    DeMAF: n=11, mean=3.727, median=4.000, normal=False
+    Monokle: n=11, mean=2.727, median=3.000, normal=True
+    Variance equal: True
+    Test used: Mann-Whitney U
+    p-value: 0.03540
+
+  Likert: T1_LQ_11:
+    DeMAF: n=11, mean=3.091, median=3.000, normal=False
+    Monokle: n=11, mean=2.273, median=3.000, normal=False
+    Variance equal: True
+    Test used: Mann-Whitney U
+    p-value: 0.04386
+
+  Likert: T1_LQ_12:
+    DeMAF: n=11, mean=3.727, median=4.000, normal=True
+    Monokle: n=11, mean=3.636, median=4.000, normal=True
+    Variance equal: True
+    Test used: t-test
+    p-value: 0.87309
+
+  Likert: T1_LQ_13:
+    DeMAF: n=11, mean=3.818, median=4.000, normal=True
+    Monokle: n=11, mean=3.091, median=4.000, normal=False
+    Variance equal: True
+    Test used: Mann-Whitney U
+    p-value: 0.16467
+
+  Likert: T1_LQ_14:
+    DeMAF: n=11, mean=3.273, median=3.000, normal=True
+    Monokle: n=11, mean=2.727, median=3.000, normal=True
+    Variance equal: True
+    Test used: t-test
+    p-value: 0.34077
+
+  Likert: T1_LQ_15:
+    DeMAF: n=11, mean=3.636, median=4.000, normal=True
+    Monokle: n=11, mean=3.273, median=4.000, normal=True
+    Variance equal: True
+    Test used: t-test
+    p-value: 0.43311
+
+
+--- T2 ---
+  Performance (Normalized Aggregated) (T2_perf_agg):
+    DeMAF: n=11, mean=51.636, median=58.000, normal=True
+    Monokle: n=11, mean=40.909, median=40.000, normal=True
+    Variance equal: True
+    Test used: t-test
+    p-value: 0.14922
+
+  Don't know count (T2_dont-know_agg):
+    DeMAF: n=11, mean=0.727, median=0.000, normal=False
+    Monokle: n=11, mean=1.636, median=0.000, normal=False
+    Variance equal: True
+    Test used: Mann-Whitney U
+    p-value: 0.45809
+
+  Task time (T2_time):
+    DeMAF: n=11, mean=1480.545, median=1484.000, normal=True
+    Monokle: n=11, mean=1238.818, median=1230.000, normal=True
+    Variance equal: True
+    Test used: t-test
+    p-value: 0.06502
+
+  NASA Likert (Normalized Aggregated) (T2_LQ_agg):
+    DeMAF: n=11, mean=4.073, median=4.400, normal=True
+    Monokle: n=11, mean=4.564, median=4.800, normal=False
+    Variance equal: True
+    Test used: Mann-Whitney U
+    p-value: 0.14649
+
+  Likert: T2_LQ_1:
+    DeMAF: n=11, mean=4.636, median=5.000, normal=False
+    Monokle: n=11, mean=5.545, median=6.000, normal=True
+    Variance equal: True
+    Test used: Mann-Whitney U
+    p-value: 0.06449
+
+  Likert: T2_LQ_2:
+    DeMAF: n=11, mean=3.182, median=3.000, normal=True
+    Monokle: n=11, mean=3.364, median=3.000, normal=True
+    Variance equal: True
+    Test used: t-test
+    p-value: 0.78189
+
+  Likert: T2_LQ_3:
+    DeMAF: n=11, mean=4.000, median=3.000, normal=False
+    Monokle: n=11, mean=3.636, median=4.000, normal=False
+    Variance equal: True
+    Test used: Mann-Whitney U
+    p-value: 0.50018
+
+  Likert: T2_LQ_4:
+    DeMAF: n=11, mean=4.455, median=5.000, normal=True
+    Monokle: n=11, mean=5.273, median=5.000, normal=True
+    Variance equal: True
+    Test used: t-test
+    p-value: 0.12617
+
+  Likert: T2_LQ_5:
+    DeMAF: n=11, mean=4.091, median=4.000, normal=True
+    Monokle: n=11, mean=5.000, median=6.000, normal=True
+    Variance equal: True
+    Test used: t-test
+    p-value: 0.22080
+
+  Likert: T2_LQ_6:
+    DeMAF: n=11, mean=3.000, median=3.000, normal=True
+    Monokle: n=11, mean=1.818, median=2.000, normal=False
+    Variance equal: True
+    Test used: Mann-Whitney U
+    p-value: 0.04574
+
+  Likert: T2_LQ_7:
+    DeMAF: n=11, mean=2.909, median=3.000, normal=False
+    Monokle: n=11, mean=2.727, median=3.000, normal=False
+    Variance equal: True
+    Test used: Mann-Whitney U
+    p-value: 0.83401
+
+  Likert: T2_LQ_8:
+    DeMAF: n=11, mean=3.364, median=4.000, normal=False
+    Monokle: n=11, mean=2.545, median=3.000, normal=True
+    Variance equal: True
+    Test used: Mann-Whitney U
+    p-value: 0.14538
+
+  Likert: T2_LQ_9:
+    DeMAF: n=11, mean=2.727, median=3.000, normal=True
+    Monokle: n=11, mean=2.545, median=2.000, normal=True
+    Variance equal: True
+    Test used: t-test
+    p-value: 0.75024
+
+  Likert: T2_LQ_10:
+    DeMAF: n=11, mean=3.455, median=3.000, normal=True
+    Monokle: n=11, mean=3.273, median=3.000, normal=True
+    Variance equal: True
+    Test used: t-test
+    p-value: 0.73518
+
+  Likert: T2_LQ_11:
+    DeMAF: n=11, mean=2.545, median=2.000, normal=False
+    Monokle: n=11, mean=2.455, median=2.000, normal=False
+    Variance equal: True
+    Test used: Mann-Whitney U
+    p-value: 0.97125
+
+  Likert: T2_LQ_12:
+    DeMAF: n=11, mean=3.273, median=3.000, normal=True
+    Monokle: n=11, mean=2.545, median=3.000, normal=False
+    Variance equal: True
+    Test used: Mann-Whitney U
+    p-value: 0.17207
+
+  Likert: T2_LQ_13:
+    DeMAF: n=11, mean=3.364, median=3.000, normal=True
+    Monokle: n=11, mean=2.273, median=2.000, normal=True
+    Variance equal: True
+    Test used: t-test
+    p-value: 0.03868
+
+  Likert: T2_LQ_14:
+    DeMAF: n=11, mean=3.091, median=3.000, normal=True
+    Monokle: n=11, mean=2.182, median=2.000, normal=True
+    Variance equal: True
+    Test used: t-test
+    p-value: 0.06864
+
+  Likert: T2_LQ_15:
+    DeMAF: n=11, mean=3.455, median=3.000, normal=True
+    Monokle: n=11, mean=2.545, median=3.000, normal=True
+    Variance equal: True
+    Test used: t-test
+    p-value: 0.06300
+
+
+=== Fisher's Method: Combined p-values for each metric ===
+Performance (Normalized Aggregated): Fisher's X^2 = 16.684, combined p-value = 0.0022262
+Don't know count: Fisher's X^2 = 7.347, combined p-value = 0.11863
+Task time: Fisher's X^2 = 6.989, combined p-value = 0.13646
+NASA Likert (Normalized Aggregated): Fisher's X^2 = 11.427, combined p-value = 0.022166
+
+=== Fisher's Method: Combined p-values for each Likert item ===
+LQ_1: Fisher's X^2 = 10.994, combined p-value = 0.02663
+LQ_2: Fisher's X^2 = 2.078, combined p-value = 0.72148
+LQ_3: Fisher's X^2 = 9.830, combined p-value = 0.043389
+LQ_4: Fisher's X^2 = 8.258, combined p-value = 0.082557
+LQ_5: Fisher's X^2 = 10.880, combined p-value = 0.027943
+LQ_6: Fisher's X^2 = 10.027, combined p-value = 0.039982
+LQ_7: Fisher's X^2 = 8.877, combined p-value = 0.064239
+LQ_8: Fisher's X^2 = 9.777, combined p-value = 0.044353
+LQ_9: Fisher's X^2 = 9.890, combined p-value = 0.042321
+LQ_10: Fisher's X^2 = 7.298, combined p-value = 0.12097
+LQ_11: Fisher's X^2 = 6.312, combined p-value = 0.17704
+LQ_12: Fisher's X^2 = 3.791, combined p-value = 0.43501
+LQ_13: Fisher's X^2 = 10.113, combined p-value = 0.038573
+LQ_14: Fisher's X^2 = 7.511, combined p-value = 0.11123
+LQ_15: Fisher's X^2 = 7.203, combined p-value = 0.12555

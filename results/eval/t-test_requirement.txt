@@ -1,0 +1,278 @@
+--- Checking requirements for T1 ---
+
+  Metric: Performance (Normalized Aggregated) (T1_perf_agg)
+    DeMAF: n=11
+    Monokle: n=11
+    DeMAF normality p=0.053 (OK)
+    Monokle normality p=0.548 (OK)
+    Variance equality p=0.893 (Equal)
+
+  Metric: Dont know count (T1_dont-know_agg)
+    DeMAF: n=11
+    Monokle: n=11
+    DeMAF normality p=0.064 (OK)
+    Monokle normality p=0.069 (OK)
+    Variance equality p=0.025 (NOT equal)
+
+  Metric: Task time (T1_time)
+    DeMAF: n=11
+    Monokle: n=11
+    DeMAF normality p=0.942 (OK)
+    Monokle normality p=0.253 (OK)
+    Variance equality p=0.523 (Equal)
+
+  Metric: NASA Likert (Normalized Aggregated) (T1_LQ_agg)
+    DeMAF: n=11
+    Monokle: n=11
+    DeMAF normality p=0.179 (OK)
+    Monokle normality p=0.960 (OK)
+    Variance equality p=0.721 (Equal)
+
+  Likert: T1_LQ_1
+    DeMAF: n=11
+    Monokle: n=11
+    DeMAF normality p=0.111 (OK)
+    Monokle normality p=0.293 (OK)
+    Variance equality p=0.267 (Equal)
+
+  Likert: T1_LQ_2
+    DeMAF: n=11
+    Monokle: n=11
+    DeMAF normality p=0.290 (OK)
+    Monokle normality p=0.113 (OK)
+    Variance equality p=0.598 (Equal)
+
+  Likert: T1_LQ_3
+    DeMAF: n=11
+    Monokle: n=11
+    DeMAF normality p=0.078 (OK)
+    Monokle normality p=0.175 (OK)
+    Variance equality p=0.573 (Equal)
+
+  Likert: T1_LQ_4
+    DeMAF: n=11
+    Monokle: n=11
+    DeMAF normality p=0.018 (NOT normal)
+    Monokle normality p=0.055 (OK)
+    Variance equality p=0.817 (Equal)
+
+  Likert: T1_LQ_5
+    DeMAF: n=11
+    Monokle: n=11
+    DeMAF normality p=0.051 (OK)
+    Monokle normality p=0.020 (NOT normal)
+    Variance equality p=0.163 (Equal)
+
+  Likert: T1_LQ_6
+    DeMAF: n=11
+    Monokle: n=11
+    DeMAF normality p=0.093 (OK)
+    Monokle normality p=0.032 (NOT normal)
+    Variance equality p=1.000 (Equal)
+
+  Likert: T1_LQ_7
+    DeMAF: n=11
+    Monokle: n=11
+    DeMAF normality p=0.100 (OK)
+    Monokle normality p=0.205 (OK)
+    Variance equality p=0.784 (Equal)
+
+  Likert: T1_LQ_8
+    DeMAF: n=11
+    Monokle: n=11
+    DeMAF normality p=0.021 (NOT normal)
+    Monokle normality p=0.002 (NOT normal)
+    Variance equality p=1.000 (Equal)
+
+  Likert: T1_LQ_9
+    DeMAF: n=11
+    Monokle: n=11
+    DeMAF normality p=0.002 (NOT normal)
+    Monokle normality p=0.006 (NOT normal)
+    Variance equality p=0.757 (Equal)
+
+  Likert: T1_LQ_10
+    DeMAF: n=11
+    Monokle: n=11
+    DeMAF normality p=0.021 (NOT normal)
+    Monokle normality p=0.134 (OK)
+    Variance equality p=0.557 (Equal)
+
+  Likert: T1_LQ_11
+    DeMAF: n=11
+    Monokle: n=11
+    DeMAF normality p=0.021 (NOT normal)
+    Monokle normality p=0.001 (NOT normal)
+    Variance equality p=0.792 (Equal)
+
+  Likert: T1_LQ_12
+    DeMAF: n=11
+    Monokle: n=11
+    DeMAF normality p=0.074 (OK)
+    Monokle normality p=0.126 (OK)
+    Variance equality p=0.819 (Equal)
+
+  Likert: T1_LQ_13
+    DeMAF: n=11
+    Monokle: n=11
+    DeMAF normality p=0.165 (OK)
+    Monokle normality p=0.004 (NOT normal)
+    Variance equality p=0.650 (Equal)
+
+  Likert: T1_LQ_14
+    DeMAF: n=11
+    Monokle: n=11
+    DeMAF normality p=0.163 (OK)
+    Monokle normality p=0.294 (OK)
+    Variance equality p=0.308 (Equal)
+
+  Likert: T1_LQ_15
+    DeMAF: n=11
+    Monokle: n=11
+    DeMAF normality p=0.217 (OK)
+    Monokle normality p=0.174 (OK)
+    Variance equality p=0.629 (Equal)
+
+--- Checking requirements for T2 ---
+
+  Metric: Performance (Normalized Aggregated) (T2_perf_agg)
+    DeMAF: n=11
+    Monokle: n=11
+    DeMAF normality p=0.055 (OK)
+    Monokle normality p=0.241 (OK)
+    Variance equality p=1.000 (Equal)
+
+  Metric: Dont know count (T2_dont-know_agg)
+    DeMAF: n=11
+    Monokle: n=11
+    DeMAF normality p=0.000 (NOT normal)
+    Monokle normality p=0.000 (NOT normal)
+    Variance equality p=0.277 (Equal)
+
+  Metric: Task time (T2_time)
+    DeMAF: n=11
+    Monokle: n=11
+    DeMAF normality p=0.202 (OK)
+    Monokle normality p=0.770 (OK)
+    Variance equality p=0.372 (Equal)
+
+  Metric: NASA Likert (Normalized Aggregated) (T2_LQ_agg)
+    DeMAF: n=11
+    Monokle: n=11
+    DeMAF normality p=0.526 (OK)
+    Monokle normality p=0.013 (NOT normal)
+    Variance equality p=0.602 (Equal)
+
+  Likert: T2_LQ_1
+    DeMAF: n=11
+    Monokle: n=11
+    DeMAF normality p=0.019 (NOT normal)
+    Monokle normality p=0.097 (OK)
+    Variance equality p=0.824 (Equal)
+
+  Likert: T2_LQ_2
+    DeMAF: n=11
+    Monokle: n=11
+    DeMAF normality p=0.078 (OK)
+    Monokle normality p=0.645 (OK)
+    Variance equality p=1.000 (Equal)
+
+  Likert: T2_LQ_3
+    DeMAF: n=11
+    Monokle: n=11
+    DeMAF normality p=0.031 (NOT normal)
+    Monokle normality p=0.008 (NOT normal)
+    Variance equality p=0.850 (Equal)
+
+  Likert: T2_LQ_4
+    DeMAF: n=11
+    Monokle: n=11
+    DeMAF normality p=0.766 (OK)
+    Monokle normality p=0.181 (OK)
+    Variance equality p=0.239 (Equal)
+
+  Likert: T2_LQ_5
+    DeMAF: n=11
+    Monokle: n=11
+    DeMAF normality p=0.889 (OK)
+    Monokle normality p=0.113 (OK)
+    Variance equality p=0.740 (Equal)
+
+  Likert: T2_LQ_6
+    DeMAF: n=11
+    Monokle: n=11
+    DeMAF normality p=0.377 (OK)
+    Monokle normality p=0.010 (NOT normal)
+    Variance equality p=0.266 (Equal)
+
+  Likert: T2_LQ_7
+    DeMAF: n=11
+    Monokle: n=11
+    DeMAF normality p=0.023 (NOT normal)
+    Monokle normality p=0.042 (NOT normal)
+    Variance equality p=0.557 (Equal)
+
+  Likert: T2_LQ_8
+    DeMAF: n=11
+    Monokle: n=11
+    DeMAF normality p=0.026 (NOT normal)
+    Monokle normality p=0.064 (OK)
+    Variance equality p=1.000 (Equal)
+
+  Likert: T2_LQ_9
+    DeMAF: n=11
+    Monokle: n=11
+    DeMAF normality p=0.518 (OK)
+    Monokle normality p=0.237 (OK)
+    Variance equality p=0.807 (Equal)
+
+  Likert: T2_LQ_10
+    DeMAF: n=11
+    Monokle: n=11
+    DeMAF normality p=0.205 (OK)
+    Monokle normality p=0.201 (OK)
+    Variance equality p=0.269 (Equal)
+
+  Likert: T2_LQ_11
+    DeMAF: n=11
+    Monokle: n=11
+    DeMAF normality p=0.033 (NOT normal)
+    Monokle normality p=0.035 (NOT normal)
+    Variance equality p=0.818 (Equal)
+
+  Likert: T2_LQ_12
+    DeMAF: n=11
+    Monokle: n=11
+    DeMAF normality p=0.134 (OK)
+    Monokle normality p=0.032 (NOT normal)
+    Variance equality p=1.000 (Equal)
+
+  Likert: T2_LQ_13
+    DeMAF: n=11
+    Monokle: n=11
+    DeMAF normality p=0.135 (OK)
+    Monokle normality p=0.063 (OK)
+    Variance equality p=0.791 (Equal)
+
+  Likert: T2_LQ_14
+    DeMAF: n=11
+    Monokle: n=11
+    DeMAF normality p=0.448 (OK)
+    Monokle normality p=0.065 (OK)
+    Variance equality p=0.161 (Equal)
+
+  Likert: T2_LQ_15
+    DeMAF: n=11
+    Monokle: n=11
+    DeMAF normality p=0.238 (OK)
+    Monokle normality p=0.150 (OK)
+    Variance equality p=0.294 (Equal)
+
+
+Judgement:
+                            T1                  T2
+Performance             	t-test	            t-test
+Don't know count	        Welch’s t-test	    Mann-Whitney U test
+Task time	                t-test	            t-test
+NASA Likert             	t-test	            Mann-Whitney U test
+Individual likert         Mann-Whitney U test Mann-Whitney U test

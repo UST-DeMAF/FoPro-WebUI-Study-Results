@@ -1,0 +1,23 @@
+question,answer,answer_demaf,answer_monokle
+T1_UQ_2,12,11,12
+T1_UQ_3,1,,
+T1_UQ_4,None of the left,,
+T1_UQ_5,None of the left,,
+T1_UQ_6,uibackend,,
+T1_UQ_7,None of the left,,
+T1_UQ_8,main,,
+T1_UQ_9,8080,,
+T1_UQ_10,80,,
+T1_UQ_11,25,,
+T1_UQ_12,No,,
+T1_UQ_13,eventuate:eventuate;inventory:inventory,,
+T2_UQ_2,26,25,26
+T2_UQ_3,2,,
+T2_UQ_4,None of the left,,
+T2_UQ_5,cart service;currency service;payment service;product catalog service;shipping service,,
+T2_UQ_6,checkout service;frontend;recommendation service,,
+T2_UQ_7,None of the left,,
+T2_UQ_8,8.0.0-rc9,,
+T2_UQ_9,9092;9093 ,,
+T2_UQ_10,27017,,
+T2_UQ_11,mongo:mongo_product_catalog,,

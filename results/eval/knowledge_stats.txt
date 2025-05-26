@@ -1,0 +1,49 @@
+KQ Column Statistics:
+
+Statistics for Have you worked with deployment technologies before?:
+Values: ['no', 'yes']
+Counts: [9, 13]
+
+Statistics for If you used deployment technologies before, for what did you use them for?:
+Values: ['homelab', 'personal life/projects', 'study/university', 'work']
+Counts: [1, 6, 8, 8]
+
+Statistics for If you used deployment technologies before, which deployment technologies have you used?:
+Values: ['ansible', 'chef', 'docker compose', 'kubernetes', 'terraform']
+Counts: [2, 1, 12, 8, 1]
+
+Statistics for How familiar are you with deployment technologies? (Boxplot):
+Values: [2, 3, 1, 1, 4, 1, 2, 1, 1, 2, 1, 2, 1, 3, 2, 4, 4, 3, 4, 2, 1, 3]
+Mean: 2.18, Median: 2.00, Std Dev: 1.14, Mode: 1
+
+Statistics for If you used deployment technologies before, which deployment technology are most familiar with?:
+Values: ['docker compose', 'kubernetes']
+Counts: [10, 3]
+
+Statistics for Do you know the following terms? [Technology-Agnostic Deployment Model (TADM)]:
+Values: ['no', 'unsure', 'yes']
+Counts: [17, 4, 1]
+
+Statistics for Do you know the following terms? [Topology and Orchestration Specification for Cloud Applications (TOSCA)]:
+Values: ['no', 'unsure', 'yes']
+Counts: [14, 3, 5]
+
+Statistics for Do you know the following terms? [Essential Deployment Metamodel (EDMM)]:
+Values: ['no', 'unsure', 'yes']
+Counts: [14, 3, 5]
+
+Statistics for Do you know the following terms? [Deployment Model Abstraction Framework (DeMAF)]:
+Values: ['no', 'unsure', 'yes']
+Counts: [16, 5, 1]
+
+Statistics for Do you know the following terms? [Technology-Specific Deployment Model (TSDM)]:
+Values: ['no', 'unsure', 'yes']
+Counts: [14, 2, 6]
+
+Statistics for Have you used any visualization tools for deployment models before?:
+Values: ['no', 'yes']
+Counts: [18, 4]
+
+Statistics for If yes, which ones?:
+Values: ['ansible playbook grapher', 'ansible run analysis (ara)', 'inframap', 'kubeview', 'opentosca', 'terraform graph (built-in tool)', 'winery']
+Counts: [1, 1, 1, 1, 1, 1, 1]

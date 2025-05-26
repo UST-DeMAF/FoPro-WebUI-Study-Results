@@ -1,0 +1,26 @@
+Comparison Questions Evaluation (CQ_1 to CQ_6):
+
+Statistics for "I preferred this tool over the other one for understanding deployment models. ":
+  Values: [1, 1, 2, 1, 4, 1, 4, 2, 5, 1, 3, 4, 2, 2, 4, 4, 1, 4, 1, 4, 1, 1]
+  Mean: 2.41, Median: 2.0, Std Dev: 1.44, Mode: 1
+
+Statistics for "This tool was easier to learn compared to the other tool.":
+  Values: [1, 1, 2, 2, 5, 1, 5, 2, 4, 2, 2, 4, 2, 2, 4, 3, 1, 4, 1, 4, 1, 1]
+  Mean: 2.45, Median: 2.0, Std Dev: 1.41, Mode: 1
+
+Statistics for "I felt confident in my understanding when using this tool. ":
+  Values: [1, 2, 1, 4, 4, 1, 4, 3, 5, 1, 3, 4, 2, 2, 4, 2, 1, 5, 1, 4, 1, 1]
+  Mean: 2.55, Median: 2.0, Std Dev: 1.47, Mode: 1
+
+Statistics for "I would use this tool again for deployment model visualization. ":
+  Values: [1, 1, 1, 4, 2, 1, 4, 2, 4, 2, 2, 5, 2, 2, 3, 4, 2, 5, 1, 3, 1, 2]
+  Mean: 2.45, Median: 2.0, Std Dev: 1.34, Mode: 2
+
+Statistics for "This tool provided better insights than the alternative tool I used. ":
+  Values: [1, 3, 2, 3, 4, 2, 4, 3, 3, 3, 4, 3, 2, 2, 2, 4, 1, 3, 1, 3, 1, 1]
+  Mean: 2.5, Median: 3.0, Std Dev: 1.06, Mode: 3
+
+Answer counts for "I prefer this tool.":
+  "demaf": 12
+  "monokle": 5
+  "indecisive": 5

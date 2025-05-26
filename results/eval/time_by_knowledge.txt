@@ -1,0 +1,34 @@
+
+Statistics for Completion time first task split by How familiar are you with deployment technologies?:
+  Both - Knowledge=1: N=8, mean=1503.38, median=1541.50, std=303.21, mode=1524
+  DeMAF   - Knowledge=1: N=4, mean=1547.75, median=1670.00, std=413.96, mode=1889
+  Monokle - Knowledge=1: N=4, mean=1459.00, median=1422.50, std=194.69, mode=1524
+  Both - Knowledge=2: N=6, mean=1115.50, median=1106.50, std=289.19, mode=1103
+  DeMAF   - Knowledge=2: N=2, mean=862.00, median=862.00, std=304.06, mode=647
+  Monokle - Knowledge=2: N=4, mean=1242.25, median=1158.00, std=210.48, mode=1103
+  Both - Knowledge=3: N=4, mean=1235.50, median=1221.50, std=98.40, mode=1368
+  DeMAF   - Knowledge=3: N=3, mean=1270.33, median=1231.00, std=85.11, mode=1368
+  Monokle - Knowledge=3: N=1, mean=1131.00, median=1131.00, std=nan, mode=1131
+  Both - Knowledge=4: N=4, mean=1466.25, median=1460.00, std=274.99, mode=1572
+  DeMAF   - Knowledge=4: N=2, mean=1251.50, median=1251.50, std=136.47, mode=1155
+  Monokle - Knowledge=4: N=2, mean=1681.00, median=1681.00, std=154.15, mode=1572
+  Both - Knowledge=5: N=0, mean=nan, median=nan, std=nan, mode=nan
+  DeMAF   - Knowledge=5: N=0, mean=nan, median=nan, std=nan, mode=nan
+  Monokle - Knowledge=5: N=0, mean=nan, median=nan, std=nan, mode=nan
+
+Statistics for Completion time second task split by How familiar are you with deployment technologies?:
+  Both - Knowledge=1: N=8, mean=1345.50, median=1289.00, std=263.76, mode=1348
+  DeMAF   - Knowledge=1: N=4, mean=1416.75, median=1416.00, std=271.51, mode=1348
+  Monokle - Knowledge=1: N=4, mean=1274.25, median=1227.50, std=274.01, mode=992
+  Both - Knowledge=2: N=6, mean=1474.33, median=1646.50, std=434.54, mode=1725
+  DeMAF   - Knowledge=2: N=4, mean=1605.75, median=1782.50, std=401.12, mode=1725
+  Monokle - Knowledge=2: N=2, mean=1211.50, median=1211.50, std=504.17, mode=1568
+  Both - Knowledge=3: N=4, mean=1292.25, median=1306.00, std=110.79, mode=1345
+  DeMAF   - Knowledge=3: N=1, mean=1267.00, median=1267.00, std=nan, mode=1267
+  Monokle - Knowledge=3: N=3, mean=1300.67, median=1345.00, std=134.11, mode=1345
+  Both - Knowledge=4: N=4, mean=1283.50, median=1302.00, std=373.08, mode=1713
+  DeMAF   - Knowledge=4: N=2, mean=1464.50, median=1464.50, std=351.43, mode=1713
+  Monokle - Knowledge=4: N=2, mean=1102.50, median=1102.50, std=403.76, mode=817
+  Both - Knowledge=5: N=0, mean=nan, median=nan, std=nan, mode=nan
+  DeMAF   - Knowledge=5: N=0, mean=nan, median=nan, std=nan, mode=nan
+  Monokle - Knowledge=5: N=0, mean=nan, median=nan, std=nan, mode=nan

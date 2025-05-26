@@ -1,0 +1,140 @@
+
+=== T1 Performance Comparison ===
+
+T1_UQ_2_perf - "How many services get deployed?":
+  DeMAF mean: 18.18
+  Monokle mean: 63.64
+  Verdict: Monokle performed better by 45.45 percentage points.
+
+T1_UQ_3_perf - "How many databases get deployed?":
+  DeMAF mean: 45.45
+  Monokle mean: 9.09
+  Verdict: DeMAF performed better by 36.36 percentage points.
+
+T1_UQ_4_perf - "General [Which service(s) interact with the "Order Service"?]":
+  DeMAF mean: 81.82
+  Monokle mean: 27.27
+  Verdict: DeMAF performed better by 54.55 percentage points.
+
+T1_UQ_5_perf - "General [Which service(s) does the "Order Service" interact with?]":
+  DeMAF mean: 27.27
+  Monokle mean: 36.36
+  Verdict: Monokle performed better by 9.09 percentage points.
+
+T1_UQ_6_perf - "General [Which service(s) interact with the "Cart Service"?]":
+  DeMAF mean: 72.73
+  Monokle mean: 0.00
+  Verdict: DeMAF performed better by 72.73 percentage points.
+
+T1_UQ_7_perf - "General [Which service(s) does the "Cart Service" interact with?]":
+  DeMAF mean: 72.73
+  Monokle mean: 27.27
+  Verdict: DeMAF performed better by 45.45 percentage points.
+
+T1_UQ_8_perf - "Which version does the "UI" use?":
+  DeMAF mean: 36.36
+  Monokle mean: 36.36
+  Verdict: Both tools performed equally.
+
+T1_UQ_9_perf - "What port does the "Orchestrator" use?":
+  DeMAF mean: 90.91
+  Monokle mean: 63.64
+  Verdict: DeMAF performed better by 27.27 percentage points.
+
+T1_UQ_10_perf - "What port gets mapped to the internal port 8080 of the "Payment Service"?":
+  DeMAF mean: 45.45
+  Monokle mean: 72.73
+  Verdict: Monokle performed better by 27.27 percentage points.
+
+T1_UQ_11_perf - "How big is the "Inventory"?":
+  DeMAF mean: 100.00
+  Monokle mean: 36.36
+  Verdict: DeMAF performed better by 63.64 percentage points.
+
+T1_UQ_12_perf - "Is "Jaeger" enabled?":
+  DeMAF mean: 90.91
+  Monokle mean: 36.36
+  Verdict: DeMAF performed better by 54.55 percentage points.
+
+T1_UQ_13_perf - "What are the username and password for the spring datasource?":
+  DeMAF mean: 90.91
+  Monokle mean: 63.64
+  Verdict: DeMAF performed better by 27.27 percentage points.
+
+Top 2 questions where DeMAF performed best for T1:
+ "General [Which service(s) interact with the "Cart Service"?]": DeMAF better by 72.73 percentage points
+ "How big is the "Inventory"?": DeMAF better by 63.64 percentage points
+
+Top 2 questions where Monokle performed best for T1:
+ "How many services get deployed?": Monokle better by 45.45 percentage points
+ "What port gets mapped to the internal port 8080 of the "Payment Service"?": Monokle better by 27.27 percentage points
+
+T1_perf_agg (Normalized Aggregated):
+  DeMAF mean: 64.39
+  Monokle mean: 39.39
+  Verdict: DeMAF performed better by 25.00 percentage points.
+
+=== T2 Performance Comparison ===
+
+T2_UQ_2_perf - "How many services get deployed?.1":
+  DeMAF mean: 0.00
+  Monokle mean: 63.64
+  Verdict: Monokle performed better by 63.64 percentage points.
+
+T2_UQ_3_perf - "How many databases get deployed?.1":
+  DeMAF mean: 54.55
+  Monokle mean: 18.18
+  Verdict: DeMAF performed better by 36.36 percentage points.
+
+T2_UQ_4_perf - "General [Which service(s) interact with the "Checkout Service"?]":
+  DeMAF mean: 90.91
+  Monokle mean: 27.27
+  Verdict: DeMAF performed better by 63.64 percentage points.
+
+T2_UQ_5_perf - "General [Which service(s) does the "Checkout Service" interact with?]":
+  DeMAF mean: 7.27
+  Monokle mean: 0.00
+  Verdict: DeMAF performed better by 7.27 percentage points.
+
+T2_UQ_6_perf - "General [Which service(s) interact with the "Product Catalog Service"?]":
+  DeMAF mean: 9.09
+  Monokle mean: 0.00
+  Verdict: DeMAF performed better by 9.09 percentage points.
+
+T2_UQ_7_perf - "General [Which service(s) does the "Product Catalog Service" interact with?]":
+  DeMAF mean: 90.91
+  Monokle mean: 27.27
+  Verdict: DeMAF performed better by 63.64 percentage points.
+
+T2_UQ_8_perf - "Which version does the Mongo database use?":
+  DeMAF mean: 36.36
+  Monokle mean: 36.36
+  Verdict: Both tools performed equally.
+
+T2_UQ_9_perf - "What port does the Kafka queue use?":
+  DeMAF mean: 72.73
+  Monokle mean: 90.91
+  Verdict: Monokle performed better by 18.18 percentage points.
+
+T2_UQ_10_perf - "What port gets mapped to the internal port 27017 of the MongoDB?":
+  DeMAF mean: 72.73
+  Monokle mean: 72.73
+  Verdict: Both tools performed equally.
+
+T2_UQ_11_perf - "What are the username and password for the MongoDB?":
+  DeMAF mean: 81.82
+  Monokle mean: 72.73
+  Verdict: DeMAF performed better by 9.09 percentage points.
+
+Top 2 questions where DeMAF performed best for T2:
+ "General [Which service(s) interact with the "Checkout Service"?]": DeMAF better by 63.64 percentage points
+ "General [Which service(s) does the "Product Catalog Service" interact with?]": DeMAF better by 63.64 percentage points
+
+Top 2 questions where Monokle performed best for T2:
+ "How many services get deployed?.1": Monokle better by 63.64 percentage points
+ "What port does the Kafka queue use?": Monokle better by 18.18 percentage points
+
+T2_perf_agg (Normalized Aggregated):
+  DeMAF mean: 51.64
+  Monokle mean: 40.91
+  Verdict: DeMAF performed better by 10.73 percentage points.
